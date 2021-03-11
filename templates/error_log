@@ -1,0 +1,1077 @@
+[12-Jun-2018 03:09:48 UTC] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[HY000] [2002] Can't connect to MySQL server on '3306' (22)' in /home/u261568441/public_html/templates/connecting_data_base.php:3
+Stack trace:
+#0 /home/u261568441/public_html/templates/connecting_data_base.php(3): PDO->__construct('mysql:host=3306...', 'admin', 'kedisbusiness20...')
+#1 /home/u261568441/public_html/templates/main.php(36): include('/home/u26156844...')
+#2 {main}
+  thrown in /home/u261568441/public_html/templates/connecting_data_base.php on line 3
+[12-Jun-2018 03:10:55 UTC] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[HY000] [2002] Can't connect to MySQL server on '3306' (22)' in /home/u261568441/public_html/templates/connecting_data_base.php:3
+Stack trace:
+#0 /home/u261568441/public_html/templates/connecting_data_base.php(3): PDO->__construct('mysql:host=3306...', 'admin', 'kedisbusiness20...')
+#1 /home/u261568441/public_html/templates/main.php(36): include('/home/u26156844...')
+#2 {main}
+  thrown in /home/u261568441/public_html/templates/connecting_data_base.php on line 3
+[12-Jun-2018 03:13:29 UTC] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[28000] [1045] Access denied for user 'admin'@'185.224.137.76' (using password: YES)' in /home/u261568441/public_html/templates/connecting_data_base.php:3
+Stack trace:
+#0 /home/u261568441/public_html/templates/connecting_data_base.php(3): PDO->__construct('mysql:host=185....', 'admin', 'kedisbusiness20...')
+#1 /home/u261568441/public_html/templates/main.php(36): include('/home/u26156844...')
+#2 {main}
+  thrown in /home/u261568441/public_html/templates/connecting_data_base.php on line 3
+[12-Jun-2018 03:16:31 UTC] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[28000] [1045] Access denied for user 'admin'@'185.224.137.76' (using password: YES)' in /home/u261568441/public_html/templates/connecting_data_base.php:3
+Stack trace:
+#0 /home/u261568441/public_html/templates/connecting_data_base.php(3): PDO->__construct('mysql:host=185....', 'admin', 'kedisbusiness20...')
+#1 /home/u261568441/public_html/templates/main.php(36): include('/home/u26156844...')
+#2 {main}
+  thrown in /home/u261568441/public_html/templates/connecting_data_base.php on line 3
+[12-Jun-2018 03:19:39 UTC] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[HY000] [2005] Unknown MySQL server host 'server143.hostinger.fr' (-2)' in /home/u261568441/public_html/templates/connecting_data_base.php:3
+Stack trace:
+#0 /home/u261568441/public_html/templates/connecting_data_base.php(3): PDO->__construct('mysql:host=serv...', 'admin', 'kedisbusiness20...')
+#1 /home/u261568441/public_html/templates/main.php(36): include('/home/u26156844...')
+#2 {main}
+  thrown in /home/u261568441/public_html/templates/connecting_data_base.php on line 3
+[12-Jun-2018 03:20:56 UTC] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[HY000] [2005] Unknown MySQL server host 'server143.hostinger.fr' (-2)' in /home/u261568441/public_html/templates/connecting_data_base.php:3
+Stack trace:
+#0 /home/u261568441/public_html/templates/connecting_data_base.php(3): PDO->__construct('mysql:host=serv...', 'admin', 'kedisbusiness20...')
+#1 /home/u261568441/public_html/templates/main.php(36): include('/home/u26156844...')
+#2 {main}
+  thrown in /home/u261568441/public_html/templates/connecting_data_base.php on line 3
+[12-Jun-2018 03:23:44 UTC] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[HY000] [2002] Can't connect to MySQL server on '3306' (22)' in /home/u261568441/public_html/templates/connecting_data_base.php:3
+Stack trace:
+#0 /home/u261568441/public_html/templates/connecting_data_base.php(3): PDO->__construct('mysql:host=3306...', 'admin', 'kedisbusiness20...')
+#1 /home/u261568441/public_html/templates/main.php(36): include('/home/u26156844...')
+#2 {main}
+  thrown in /home/u261568441/public_html/templates/connecting_data_base.php on line 3
+[12-Jun-2018 03:30:37 UTC] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[HY000] [2002] Can't connect to MySQL server on '3306' (22)' in /home/u261568441/public_html/templates/connecting_data_base.php:3
+Stack trace:
+#0 /home/u261568441/public_html/templates/connecting_data_base.php(3): PDO->__construct('mysql:host=3306...', 'admin', 'kedisbusiness20...')
+#1 /home/u261568441/public_html/templates/main.php(36): include('/home/u26156844...')
+#2 {main}
+  thrown in /home/u261568441/public_html/templates/connecting_data_base.php on line 3
+[12-Jun-2018 03:32:32 UTC] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[28000] [1045] Access denied for user 'admin'@'127.0.0.1' (using password: YES)' in /home/u261568441/public_html/templates/connecting_data_base.php:3
+Stack trace:
+#0 /home/u261568441/public_html/templates/connecting_data_base.php(3): PDO->__construct('mysql:host=mysq...', 'admin', 'kedisbusiness20...')
+#1 /home/u261568441/public_html/templates/main.php(36): include('/home/u26156844...')
+#2 {main}
+  thrown in /home/u261568441/public_html/templates/connecting_data_base.php on line 3
+[12-Jun-2018 03:34:43 UTC] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[28000] [1045] Access denied for user 'admin'@'127.0.0.1' (using password: NO)' in /home/u261568441/public_html/templates/connecting_data_base.php:3
+Stack trace:
+#0 /home/u261568441/public_html/templates/connecting_data_base.php(3): PDO->__construct('mysql:host=mysq...', 'admin', '')
+#1 /home/u261568441/public_html/templates/main.php(36): include('/home/u26156844...')
+#2 {main}
+  thrown in /home/u261568441/public_html/templates/connecting_data_base.php on line 3
+[12-Jun-2018 03:35:22 UTC] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[28000] [1045] Access denied for user 'admin'@'127.0.0.1' (using password: YES)' in /home/u261568441/public_html/templates/connecting_data_base.php:3
+Stack trace:
+#0 /home/u261568441/public_html/templates/connecting_data_base.php(3): PDO->__construct('mysql:host=mysq...', 'admin', 'kedisbusiness20...')
+#1 /home/u261568441/public_html/templates/main.php(36): include('/home/u26156844...')
+#2 {main}
+  thrown in /home/u261568441/public_html/templates/connecting_data_base.php on line 3
+[12-Jun-2018 03:36:13 UTC] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[28000] [1045] Access denied for user 'u261568441'@'127.0.0.1' (using password: YES)' in /home/u261568441/public_html/templates/connecting_data_base.php:3
+Stack trace:
+#0 /home/u261568441/public_html/templates/connecting_data_base.php(3): PDO->__construct('mysql:host=mysq...', 'u261568441', 'kedisbusiness20...')
+#1 /home/u261568441/public_html/templates/main.php(36): include('/home/u26156844...')
+#2 {main}
+  thrown in /home/u261568441/public_html/templates/connecting_data_base.php on line 3
+[12-Jun-2018 03:38:28 UTC] PHP Notice:  Undefined variable: userfos in /home/u261568441/public_html/templates/login_on.php on line 10
+[12-Jun-2018 03:38:28 UTC] PHP Stack trace:
+[12-Jun-2018 03:38:28 UTC] PHP   1. {main}() /home/u261568441/public_html/templates/login_on.php:0
+[12-Jun-2018 03:43:39 UTC] PHP Notice:  Undefined variable: userfos in /home/u261568441/public_html/templates/deconnexion.php on line 12
+[12-Jun-2018 03:43:39 UTC] PHP Stack trace:
+[12-Jun-2018 03:43:39 UTC] PHP   1. {main}() /home/u261568441/public_html/templates/deconnexion.php:0
+[12-Jun-2018 03:43:57 UTC] PHP Notice:  Undefined variable: userfos in /home/u261568441/public_html/templates/login_on.php on line 10
+[12-Jun-2018 03:43:57 UTC] PHP Stack trace:
+[12-Jun-2018 03:43:57 UTC] PHP   1. {main}() /home/u261568441/public_html/templates/login_on.php:0
+[12-Jun-2018 04:38:58 UTC] PHP Notice:  Undefined variable: userfos in /home/u261568441/public_html/templates/deconnexion.php on line 12
+[12-Jun-2018 04:38:58 UTC] PHP Stack trace:
+[12-Jun-2018 04:38:58 UTC] PHP   1. {main}() /home/u261568441/public_html/templates/deconnexion.php:0
+[12-Jun-2018 04:53:41 UTC] PHP Notice:  Undefined variable: userfos in /home/u261568441/public_html/templates/login_on.php on line 10
+[12-Jun-2018 04:53:41 UTC] PHP Stack trace:
+[12-Jun-2018 04:53:41 UTC] PHP   1. {main}() /home/u261568441/public_html/templates/login_on.php:0
+[12-Jun-2018 05:15:08 UTC] PHP Notice:  Undefined variable: userfos in /home/u261568441/public_html/templates/login_on.php on line 10
+[12-Jun-2018 05:15:08 UTC] PHP Stack trace:
+[12-Jun-2018 05:15:08 UTC] PHP   1. {main}() /home/u261568441/public_html/templates/login_on.php:0
+[12-Jun-2018 05:16:17 UTC] PHP Notice:  Undefined variable: userfos in /home/u261568441/public_html/templates/deconnexion.php on line 12
+[12-Jun-2018 05:16:17 UTC] PHP Stack trace:
+[12-Jun-2018 05:16:17 UTC] PHP   1. {main}() /home/u261568441/public_html/templates/deconnexion.php:0
+[12-Jun-2018 05:16:53 UTC] PHP Notice:  Undefined variable: userfos in /home/u261568441/public_html/templates/deconnexion.php on line 12
+[12-Jun-2018 05:16:53 UTC] PHP Stack trace:
+[12-Jun-2018 05:16:53 UTC] PHP   1. {main}() /home/u261568441/public_html/templates/deconnexion.php:0
+[12-Jun-2018 05:16:54 UTC] PHP Notice:  Undefined variable: userfos in /home/u261568441/public_html/templates/deconnexion.php on line 12
+[12-Jun-2018 05:16:54 UTC] PHP Stack trace:
+[12-Jun-2018 05:16:54 UTC] PHP   1. {main}() /home/u261568441/public_html/templates/deconnexion.php:0
+[12-Jun-2018 05:17:37 UTC] PHP Notice:  Undefined variable: userfos in /home/u261568441/public_html/templates/login_on.php on line 10
+[12-Jun-2018 05:17:37 UTC] PHP Stack trace:
+[12-Jun-2018 05:17:37 UTC] PHP   1. {main}() /home/u261568441/public_html/templates/login_on.php:0
+[12-Jun-2018 05:37:36 UTC] PHP Notice:  Undefined variable: userfos in /home/u261568441/public_html/templates/login_on.php on line 10
+[12-Jun-2018 05:37:36 UTC] PHP Stack trace:
+[12-Jun-2018 05:37:36 UTC] PHP   1. {main}() /home/u261568441/public_html/templates/login_on.php:0
+[12-Jun-2018 05:46:10 UTC] PHP Notice:  Undefined variable: userfos in /home/u261568441/public_html/templates/deconnexion.php on line 12
+[12-Jun-2018 05:46:10 UTC] PHP Stack trace:
+[12-Jun-2018 05:46:10 UTC] PHP   1. {main}() /home/u261568441/public_html/templates/deconnexion.php:0
+[12-Jun-2018 07:09:49 UTC] PHP Notice:  Undefined variable: userfos in /home/u261568441/public_html/templates/deconnexion.php on line 12
+[12-Jun-2018 07:09:49 UTC] PHP Stack trace:
+[12-Jun-2018 07:09:49 UTC] PHP   1. {main}() /home/u261568441/public_html/templates/deconnexion.php:0
+[12-Jun-2018 07:09:54 UTC] PHP Notice:  Undefined variable: userfos in /home/u261568441/public_html/templates/deconnexion.php on line 12
+[12-Jun-2018 07:09:54 UTC] PHP Stack trace:
+[12-Jun-2018 07:09:54 UTC] PHP   1. {main}() /home/u261568441/public_html/templates/deconnexion.php:0
+[12-Jun-2018 08:16:37 UTC] PHP Notice:  Undefined variable: userfos in /home/u261568441/public_html/templates/login_on.php on line 10
+[12-Jun-2018 08:16:37 UTC] PHP Stack trace:
+[12-Jun-2018 08:16:37 UTC] PHP   1. {main}() /home/u261568441/public_html/templates/login_on.php:0
+[12-Jun-2018 08:40:35 UTC] PHP Notice:  Undefined variable: userfos in /home/u261568441/public_html/templates/login_on.php on line 10
+[12-Jun-2018 08:40:35 UTC] PHP Stack trace:
+[12-Jun-2018 08:40:35 UTC] PHP   1. {main}() /home/u261568441/public_html/templates/login_on.php:0
+[12-Jun-2018 08:46:00 UTC] PHP Notice:  Undefined variable: idUE in /home/u261568441/public_html/templates/settingUnitexpl.php on line 517
+[12-Jun-2018 08:46:00 UTC] PHP Stack trace:
+[12-Jun-2018 08:46:00 UTC] PHP   1. {main}() /home/u261568441/public_html/templates/settingUnitexpl.php:0
+[12-Jun-2018 08:46:00 UTC] PHP Notice:  Undefined variable: nomUE in /home/u261568441/public_html/templates/settingUnitexpl.php on line 517
+[12-Jun-2018 08:46:00 UTC] PHP Stack trace:
+[12-Jun-2018 08:46:00 UTC] PHP   1. {main}() /home/u261568441/public_html/templates/settingUnitexpl.php:0
+[12-Jun-2018 08:46:00 UTC] PHP Notice:  Undefined index: id_cat_art in /home/u261568441/public_html/templates/settingUnitexpl.php on line 517
+[12-Jun-2018 08:46:00 UTC] PHP Stack trace:
+[12-Jun-2018 08:46:00 UTC] PHP   1. {main}() /home/u261568441/public_html/templates/settingUnitexpl.php:0
+[12-Jun-2018 09:01:28 UTC] PHP Notice:  Undefined variable: idUE in /home/u261568441/public_html/templates/settingUnitexpl.php on line 517
+[12-Jun-2018 09:01:28 UTC] PHP Stack trace:
+[12-Jun-2018 09:01:28 UTC] PHP   1. {main}() /home/u261568441/public_html/templates/settingUnitexpl.php:0
+[12-Jun-2018 09:01:28 UTC] PHP Notice:  Undefined variable: nomUE in /home/u261568441/public_html/templates/settingUnitexpl.php on line 517
+[12-Jun-2018 09:01:28 UTC] PHP Stack trace:
+[12-Jun-2018 09:01:28 UTC] PHP   1. {main}() /home/u261568441/public_html/templates/settingUnitexpl.php:0
+[12-Jun-2018 09:01:28 UTC] PHP Notice:  Undefined index: id_cat_art in /home/u261568441/public_html/templates/settingUnitexpl.php on line 517
+[12-Jun-2018 09:01:28 UTC] PHP Stack trace:
+[12-Jun-2018 09:01:28 UTC] PHP   1. {main}() /home/u261568441/public_html/templates/settingUnitexpl.php:0
+[12-Jun-2018 09:25:06 UTC] PHP Notice:  Undefined variable: userfos in /home/u261568441/public_html/templates/deconnexion.php on line 12
+[12-Jun-2018 09:25:06 UTC] PHP Stack trace:
+[12-Jun-2018 09:25:06 UTC] PHP   1. {main}() /home/u261568441/public_html/templates/deconnexion.php:0
+[12-Jun-2018 10:01:53 UTC] PHP Notice:  Undefined variable: userfos in /home/u261568441/public_html/templates/login_on.php on line 10
+[12-Jun-2018 10:01:53 UTC] PHP Stack trace:
+[12-Jun-2018 10:01:53 UTC] PHP   1. {main}() /home/u261568441/public_html/templates/login_on.php:0
+[12-Jun-2018 10:06:07 UTC] PHP Notice:  Undefined variable: userfos in /home/u261568441/public_html/templates/deconnexion.php on line 12
+[12-Jun-2018 10:06:07 UTC] PHP Stack trace:
+[12-Jun-2018 10:06:07 UTC] PHP   1. {main}() /home/u261568441/public_html/templates/deconnexion.php:0
+[12-Jun-2018 10:07:46 UTC] PHP Notice:  Undefined variable: userfos in /home/u261568441/public_html/templates/login_on.php on line 10
+[12-Jun-2018 10:07:46 UTC] PHP Stack trace:
+[12-Jun-2018 10:07:46 UTC] PHP   1. {main}() /home/u261568441/public_html/templates/login_on.php:0
+[12-Jun-2018 10:08:31 UTC] PHP Notice:  Undefined variable: idUE in /home/u261568441/public_html/templates/settingUnitexpl.php on line 517
+[12-Jun-2018 10:08:31 UTC] PHP Stack trace:
+[12-Jun-2018 10:08:31 UTC] PHP   1. {main}() /home/u261568441/public_html/templates/settingUnitexpl.php:0
+[12-Jun-2018 10:08:31 UTC] PHP Notice:  Undefined variable: nomUE in /home/u261568441/public_html/templates/settingUnitexpl.php on line 517
+[12-Jun-2018 10:08:31 UTC] PHP Stack trace:
+[12-Jun-2018 10:08:31 UTC] PHP   1. {main}() /home/u261568441/public_html/templates/settingUnitexpl.php:0
+[12-Jun-2018 10:08:31 UTC] PHP Notice:  Undefined index: id_cat_art in /home/u261568441/public_html/templates/settingUnitexpl.php on line 517
+[12-Jun-2018 10:08:31 UTC] PHP Stack trace:
+[12-Jun-2018 10:08:31 UTC] PHP   1. {main}() /home/u261568441/public_html/templates/settingUnitexpl.php:0
+[12-Jun-2018 12:37:20 UTC] PHP Notice:  Undefined variable: userfos in /home/u261568441/public_html/templates/login_on.php on line 10
+[12-Jun-2018 12:37:20 UTC] PHP Stack trace:
+[12-Jun-2018 12:37:20 UTC] PHP   1. {main}() /home/u261568441/public_html/templates/login_on.php:0
+[12-Jun-2018 12:41:15 UTC] PHP Notice:  Undefined variable: idUE in /home/u261568441/public_html/templates/settingUnitexpl.php on line 517
+[12-Jun-2018 12:41:15 UTC] PHP Stack trace:
+[12-Jun-2018 12:41:15 UTC] PHP   1. {main}() /home/u261568441/public_html/templates/settingUnitexpl.php:0
+[12-Jun-2018 12:41:15 UTC] PHP Notice:  Undefined variable: nomUE in /home/u261568441/public_html/templates/settingUnitexpl.php on line 517
+[12-Jun-2018 12:41:15 UTC] PHP Stack trace:
+[12-Jun-2018 12:41:15 UTC] PHP   1. {main}() /home/u261568441/public_html/templates/settingUnitexpl.php:0
+[12-Jun-2018 12:41:15 UTC] PHP Notice:  Undefined index: id_cat_art in /home/u261568441/public_html/templates/settingUnitexpl.php on line 517
+[12-Jun-2018 12:41:15 UTC] PHP Stack trace:
+[12-Jun-2018 12:41:15 UTC] PHP   1. {main}() /home/u261568441/public_html/templates/settingUnitexpl.php:0
+[12-Jun-2018 12:43:53 UTC] PHP Notice:  Undefined variable: userfos in /home/u261568441/public_html/templates/deconnexion.php on line 12
+[12-Jun-2018 12:43:53 UTC] PHP Stack trace:
+[12-Jun-2018 12:43:53 UTC] PHP   1. {main}() /home/u261568441/public_html/templates/deconnexion.php:0
+[12-Jun-2018 13:13:24 UTC] PHP Notice:  Undefined variable: userfos in /home/u261568441/public_html/templates/login_on.php on line 10
+[12-Jun-2018 13:13:24 UTC] PHP Stack trace:
+[12-Jun-2018 13:13:24 UTC] PHP   1. {main}() /home/u261568441/public_html/templates/login_on.php:0
+[12-Jun-2018 13:13:46 UTC] PHP Notice:  Undefined variable: userfos in /home/u261568441/public_html/templates/deconnexion.php on line 12
+[12-Jun-2018 13:13:46 UTC] PHP Stack trace:
+[12-Jun-2018 13:13:46 UTC] PHP   1. {main}() /home/u261568441/public_html/templates/deconnexion.php:0
+[12-Jun-2018 13:13:54 UTC] PHP Notice:  Undefined variable: userfos in /home/u261568441/public_html/templates/deconnexion.php on line 12
+[12-Jun-2018 13:13:54 UTC] PHP Stack trace:
+[12-Jun-2018 13:13:54 UTC] PHP   1. {main}() /home/u261568441/public_html/templates/deconnexion.php:0
+[12-Jun-2018 13:15:10 UTC] PHP Notice:  Undefined variable: userfos in /home/u261568441/public_html/templates/login_on.php on line 10
+[12-Jun-2018 13:15:10 UTC] PHP Stack trace:
+[12-Jun-2018 13:15:10 UTC] PHP   1. {main}() /home/u261568441/public_html/templates/login_on.php:0
+[12-Jun-2018 13:15:18 UTC] PHP Notice:  Undefined variable: userfos in /home/u261568441/public_html/templates/deconnexion.php on line 12
+[12-Jun-2018 13:15:18 UTC] PHP Stack trace:
+[12-Jun-2018 13:15:18 UTC] PHP   1. {main}() /home/u261568441/public_html/templates/deconnexion.php:0
+[12-Jun-2018 13:15:23 UTC] PHP Notice:  Undefined variable: userfos in /home/u261568441/public_html/templates/deconnexion.php on line 12
+[12-Jun-2018 13:15:23 UTC] PHP Stack trace:
+[12-Jun-2018 13:15:23 UTC] PHP   1. {main}() /home/u261568441/public_html/templates/deconnexion.php:0
+[12-Jun-2018 17:27:24 UTC] PHP Notice:  Undefined variable: userfos in /home/u261568441/public_html/templates/login_on.php on line 10
+[12-Jun-2018 17:27:24 UTC] PHP Stack trace:
+[12-Jun-2018 17:27:24 UTC] PHP   1. {main}() /home/u261568441/public_html/templates/login_on.php:0
+[13-Jun-2018 01:45:23 UTC] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[28000] [1045] Access denied for user 'root'@'127.0.0.1' (using password: NO)' in /home/u261568441/public_html/templates/connecting_data_base.php:5
+Stack trace:
+#0 /home/u261568441/public_html/templates/connecting_data_base.php(5): PDO->__construct('mysql:host=127....', 'root', '')
+#1 /home/u261568441/public_html/templates/main.php(39): include('/home/u26156844...')
+#2 {main}
+  thrown in /home/u261568441/public_html/templates/connecting_data_base.php on line 5
+[13-Jun-2018 01:46:43 UTC] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[28000] [1045] Access denied for user 'root'@'127.0.0.1' (using password: NO)' in /home/u261568441/public_html/templates/connecting_data_base.php:5
+Stack trace:
+#0 /home/u261568441/public_html/templates/connecting_data_base.php(5): PDO->__construct('mysql:host=127....', 'root', '')
+#1 /home/u261568441/public_html/templates/main.php(39): include('/home/u26156844...')
+#2 {main}
+  thrown in /home/u261568441/public_html/templates/connecting_data_base.php on line 5
+[13-Jun-2018 01:46:49 UTC] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[28000] [1045] Access denied for user 'root'@'127.0.0.1' (using password: NO)' in /home/u261568441/public_html/templates/connecting_data_base.php:5
+Stack trace:
+#0 /home/u261568441/public_html/templates/connecting_data_base.php(5): PDO->__construct('mysql:host=127....', 'root', '')
+#1 /home/u261568441/public_html/templates/main.php(39): include('/home/u26156844...')
+#2 {main}
+  thrown in /home/u261568441/public_html/templates/connecting_data_base.php on line 5
+[13-Jun-2018 01:54:19 UTC] PHP Notice:  Undefined variable: userfos in /home/u261568441/public_html/templates/login_on.php on line 10
+[13-Jun-2018 01:54:19 UTC] PHP Stack trace:
+[13-Jun-2018 01:54:19 UTC] PHP   1. {main}() /home/u261568441/public_html/templates/login_on.php:0
+[13-Jun-2018 01:54:51 UTC] PHP Notice:  Undefined variable: userfos in /home/u261568441/public_html/templates/deconnexion.php on line 12
+[13-Jun-2018 01:54:51 UTC] PHP Stack trace:
+[13-Jun-2018 01:54:51 UTC] PHP   1. {main}() /home/u261568441/public_html/templates/deconnexion.php:0
+[13-Jun-2018 04:41:22 UTC] PHP Notice:  Undefined variable: userfos in /home/u261568441/public_html/templates/login_on.php on line 10
+[13-Jun-2018 04:41:22 UTC] PHP Stack trace:
+[13-Jun-2018 04:41:22 UTC] PHP   1. {main}() /home/u261568441/public_html/templates/login_on.php:0
+[13-Jun-2018 04:51:16 UTC] PHP Notice:  Undefined variable: userfos in /home/u261568441/public_html/templates/login_on.php on line 10
+[13-Jun-2018 04:51:16 UTC] PHP Stack trace:
+[13-Jun-2018 04:51:16 UTC] PHP   1. {main}() /home/u261568441/public_html/templates/login_on.php:0
+[13-Jun-2018 05:32:48 UTC] PHP Notice:  Undefined variable: userfos in /home/u261568441/public_html/templates/login_on.php on line 10
+[13-Jun-2018 05:32:48 UTC] PHP Stack trace:
+[13-Jun-2018 05:32:48 UTC] PHP   1. {main}() /home/u261568441/public_html/templates/login_on.php:0
+[13-Jun-2018 13:35:24 UTC] PHP Notice:  Undefined variable: userfos in /home/u261568441/public_html/templates/login_on.php on line 10
+[13-Jun-2018 13:35:24 UTC] PHP Stack trace:
+[13-Jun-2018 13:35:24 UTC] PHP   1. {main}() /home/u261568441/public_html/templates/login_on.php:0
+[13-Jun-2018 16:56:39 UTC] PHP Notice:  Undefined variable: userfos in /home/u261568441/public_html/templates/login_on.php on line 10
+[13-Jun-2018 16:56:39 UTC] PHP Stack trace:
+[13-Jun-2018 16:56:39 UTC] PHP   1. {main}() /home/u261568441/public_html/templates/login_on.php:0
+[13-Jun-2018 18:49:39 UTC] PHP Notice:  Undefined variable: userfos in /home/u261568441/public_html/templates/login_on.php on line 10
+[13-Jun-2018 18:49:39 UTC] PHP Stack trace:
+[13-Jun-2018 18:49:39 UTC] PHP   1. {main}() /home/u261568441/public_html/templates/login_on.php:0
+[13-Jun-2018 18:55:53 UTC] PHP Notice:  Undefined variable: userfos in /home/u261568441/public_html/templates/deconnexion.php on line 12
+[13-Jun-2018 18:55:53 UTC] PHP Stack trace:
+[13-Jun-2018 18:55:53 UTC] PHP   1. {main}() /home/u261568441/public_html/templates/deconnexion.php:0
+[14-Jun-2018 12:50:41 UTC] PHP Notice:  Undefined variable: userfos in /home/u261568441/public_html/templates/login_on.php on line 10
+[14-Jun-2018 12:50:41 UTC] PHP Stack trace:
+[14-Jun-2018 12:50:41 UTC] PHP   1. {main}() /home/u261568441/public_html/templates/login_on.php:0
+[14-Jun-2018 13:20:50 UTC] PHP Notice:  Undefined variable: userfos in /home/u261568441/public_html/templates/deconnexion.php on line 12
+[14-Jun-2018 13:20:50 UTC] PHP Stack trace:
+[14-Jun-2018 13:20:50 UTC] PHP   1. {main}() /home/u261568441/public_html/templates/deconnexion.php:0
+[14-Jun-2018 14:58:06 UTC] PHP Notice:  Undefined variable: userfos in /home/u261568441/public_html/templates/login_on.php on line 10
+[14-Jun-2018 14:58:06 UTC] PHP Stack trace:
+[14-Jun-2018 14:58:06 UTC] PHP   1. {main}() /home/u261568441/public_html/templates/login_on.php:0
+[15-Jun-2018 10:12:55 UTC] PHP Notice:  Undefined variable: userfos in /home/u261568441/public_html/templates/login_on.php on line 10
+[15-Jun-2018 10:12:55 UTC] PHP Stack trace:
+[15-Jun-2018 10:12:55 UTC] PHP   1. {main}() /home/u261568441/public_html/templates/login_on.php:0
+[15-Jun-2018 15:15:08 UTC] PHP Notice:  Undefined variable: userfos in /home/u261568441/public_html/templates/login_on.php on line 10
+[15-Jun-2018 15:15:08 UTC] PHP Stack trace:
+[15-Jun-2018 15:15:08 UTC] PHP   1. {main}() /home/u261568441/public_html/templates/login_on.php:0
+[15-Jun-2018 15:17:45 UTC] PHP Notice:  Undefined variable: userfos in /home/u261568441/public_html/templates/deconnexion.php on line 12
+[15-Jun-2018 15:17:45 UTC] PHP Stack trace:
+[15-Jun-2018 15:17:45 UTC] PHP   1. {main}() /home/u261568441/public_html/templates/deconnexion.php:0
+[15-Jun-2018 15:23:48 UTC] PHP Notice:  Undefined variable: userfos in /home/u261568441/public_html/templates/login_on.php on line 10
+[15-Jun-2018 15:23:48 UTC] PHP Stack trace:
+[15-Jun-2018 15:23:48 UTC] PHP   1. {main}() /home/u261568441/public_html/templates/login_on.php:0
+[16-Jun-2018 00:06:40 UTC] PHP Notice:  Undefined variable: userfos in /home/u261568441/public_html/templates/login_on.php on line 10
+[16-Jun-2018 00:06:40 UTC] PHP Stack trace:
+[16-Jun-2018 00:06:40 UTC] PHP   1. {main}() /home/u261568441/public_html/templates/login_on.php:0
+[16-Jun-2018 00:23:31 UTC] PHP Notice:  Undefined variable: userfos in /home/u261568441/public_html/templates/deconnexion.php on line 12
+[16-Jun-2018 00:23:31 UTC] PHP Stack trace:
+[16-Jun-2018 00:23:31 UTC] PHP   1. {main}() /home/u261568441/public_html/templates/deconnexion.php:0
+[16-Jun-2018 01:37:21 UTC] PHP Notice:  Undefined variable: userfos in /home/u261568441/public_html/templates/login_on.php on line 10
+[16-Jun-2018 01:37:21 UTC] PHP Stack trace:
+[16-Jun-2018 01:37:21 UTC] PHP   1. {main}() /home/u261568441/public_html/templates/login_on.php:0
+[16-Jun-2018 01:55:23 UTC] PHP Notice:  Undefined variable: userfos in /home/u261568441/public_html/templates/deconnexion.php on line 12
+[16-Jun-2018 01:55:23 UTC] PHP Stack trace:
+[16-Jun-2018 01:55:23 UTC] PHP   1. {main}() /home/u261568441/public_html/templates/deconnexion.php:0
+[16-Jun-2018 01:56:00 UTC] PHP Notice:  Undefined variable: userfos in /home/u261568441/public_html/templates/login_on.php on line 10
+[16-Jun-2018 01:56:00 UTC] PHP Stack trace:
+[16-Jun-2018 01:56:00 UTC] PHP   1. {main}() /home/u261568441/public_html/templates/login_on.php:0
+[16-Jun-2018 02:00:37 UTC] PHP Notice:  Undefined variable: idUE in /home/u261568441/public_html/templates/settingUnitexpl.php on line 517
+[16-Jun-2018 02:00:37 UTC] PHP Stack trace:
+[16-Jun-2018 02:00:37 UTC] PHP   1. {main}() /home/u261568441/public_html/templates/settingUnitexpl.php:0
+[16-Jun-2018 02:00:37 UTC] PHP Notice:  Undefined variable: nomUE in /home/u261568441/public_html/templates/settingUnitexpl.php on line 517
+[16-Jun-2018 02:00:37 UTC] PHP Stack trace:
+[16-Jun-2018 02:00:37 UTC] PHP   1. {main}() /home/u261568441/public_html/templates/settingUnitexpl.php:0
+[16-Jun-2018 02:00:37 UTC] PHP Notice:  Undefined index: id_cat_art in /home/u261568441/public_html/templates/settingUnitexpl.php on line 517
+[16-Jun-2018 02:00:37 UTC] PHP Stack trace:
+[16-Jun-2018 02:00:37 UTC] PHP   1. {main}() /home/u261568441/public_html/templates/settingUnitexpl.php:0
+[16-Jun-2018 02:09:27 UTC] PHP Notice:  Undefined variable: userfos in /home/u261568441/public_html/templates/deconnexion.php on line 12
+[16-Jun-2018 02:09:27 UTC] PHP Stack trace:
+[16-Jun-2018 02:09:27 UTC] PHP   1. {main}() /home/u261568441/public_html/templates/deconnexion.php:0
+[16-Jun-2018 02:13:44 UTC] PHP Notice:  Undefined variable: userfos in /home/u261568441/public_html/templates/login_on.php on line 10
+[16-Jun-2018 02:13:44 UTC] PHP Stack trace:
+[16-Jun-2018 02:13:44 UTC] PHP   1. {main}() /home/u261568441/public_html/templates/login_on.php:0
+[16-Jun-2018 02:16:32 UTC] PHP Notice:  Undefined variable: userfos in /home/u261568441/public_html/templates/deconnexion.php on line 12
+[16-Jun-2018 02:16:32 UTC] PHP Stack trace:
+[16-Jun-2018 02:16:32 UTC] PHP   1. {main}() /home/u261568441/public_html/templates/deconnexion.php:0
+[16-Jun-2018 06:02:48 UTC] PHP Notice:  Undefined variable: userfos in /home/u261568441/public_html/templates/login_on.php on line 10
+[16-Jun-2018 06:02:48 UTC] PHP Stack trace:
+[16-Jun-2018 06:02:48 UTC] PHP   1. {main}() /home/u261568441/public_html/templates/login_on.php:0
+[16-Jun-2018 06:11:50 UTC] PHP Notice:  Undefined variable: userfos in /home/u261568441/public_html/templates/deconnexion.php on line 12
+[16-Jun-2018 06:11:50 UTC] PHP Stack trace:
+[16-Jun-2018 06:11:50 UTC] PHP   1. {main}() /home/u261568441/public_html/templates/deconnexion.php:0
+[16-Jun-2018 07:22:17 UTC] PHP Notice:  Undefined variable: userfos in /home/u261568441/public_html/templates/login_on.php on line 10
+[16-Jun-2018 07:22:17 UTC] PHP Stack trace:
+[16-Jun-2018 07:22:17 UTC] PHP   1. {main}() /home/u261568441/public_html/templates/login_on.php:0
+[16-Jun-2018 07:38:24 UTC] PHP Notice:  Undefined variable: userfos in /home/u261568441/public_html/templates/deconnexion.php on line 12
+[16-Jun-2018 07:38:24 UTC] PHP Stack trace:
+[16-Jun-2018 07:38:24 UTC] PHP   1. {main}() /home/u261568441/public_html/templates/deconnexion.php:0
+[16-Jun-2018 10:39:24 UTC] PHP Notice:  Undefined variable: userfos in /home/u261568441/public_html/templates/login_on.php on line 10
+[16-Jun-2018 10:39:24 UTC] PHP Stack trace:
+[16-Jun-2018 10:39:24 UTC] PHP   1. {main}() /home/u261568441/public_html/templates/login_on.php:0
+[16-Jun-2018 11:20:09 UTC] PHP Notice:  Undefined variable: userfos in /home/u261568441/public_html/templates/deconnexion.php on line 12
+[16-Jun-2018 11:20:09 UTC] PHP Stack trace:
+[16-Jun-2018 11:20:09 UTC] PHP   1. {main}() /home/u261568441/public_html/templates/deconnexion.php:0
+[17-Jun-2018 02:27:25 UTC] PHP Notice:  Undefined variable: userfos in /home/u261568441/public_html/templates/login_on.php on line 10
+[17-Jun-2018 02:27:25 UTC] PHP Stack trace:
+[17-Jun-2018 02:27:25 UTC] PHP   1. {main}() /home/u261568441/public_html/templates/login_on.php:0
+[17-Jun-2018 02:43:29 UTC] PHP Notice:  Undefined variable: idUE in /home/u261568441/public_html/templates/settingUnitexpl.php on line 517
+[17-Jun-2018 02:43:29 UTC] PHP Stack trace:
+[17-Jun-2018 02:43:29 UTC] PHP   1. {main}() /home/u261568441/public_html/templates/settingUnitexpl.php:0
+[17-Jun-2018 02:43:29 UTC] PHP Notice:  Undefined variable: nomUE in /home/u261568441/public_html/templates/settingUnitexpl.php on line 517
+[17-Jun-2018 02:43:29 UTC] PHP Stack trace:
+[17-Jun-2018 02:43:29 UTC] PHP   1. {main}() /home/u261568441/public_html/templates/settingUnitexpl.php:0
+[17-Jun-2018 02:43:29 UTC] PHP Notice:  Undefined index: id_cat_art in /home/u261568441/public_html/templates/settingUnitexpl.php on line 517
+[17-Jun-2018 02:43:29 UTC] PHP Stack trace:
+[17-Jun-2018 02:43:29 UTC] PHP   1. {main}() /home/u261568441/public_html/templates/settingUnitexpl.php:0
+[17-Jun-2018 07:58:01 UTC] PHP Notice:  Undefined variable: userfos in /home/u261568441/public_html/templates/login_on.php on line 10
+[17-Jun-2018 07:58:01 UTC] PHP Stack trace:
+[17-Jun-2018 07:58:01 UTC] PHP   1. {main}() /home/u261568441/public_html/templates/login_on.php:0
+[17-Jun-2018 08:23:18 UTC] PHP Notice:  Undefined variable: userfos in /home/u261568441/public_html/templates/deconnexion.php on line 12
+[17-Jun-2018 08:23:18 UTC] PHP Stack trace:
+[17-Jun-2018 08:23:18 UTC] PHP   1. {main}() /home/u261568441/public_html/templates/deconnexion.php:0
+[17-Jun-2018 08:23:53 UTC] PHP Notice:  Undefined variable: userfos in /home/u261568441/public_html/templates/login_on.php on line 10
+[17-Jun-2018 08:23:53 UTC] PHP Stack trace:
+[17-Jun-2018 08:23:53 UTC] PHP   1. {main}() /home/u261568441/public_html/templates/login_on.php:0
+[17-Jun-2018 08:23:53 UTC] PHP Notice:  Undefined variable: userfos in /home/u261568441/public_html/templates/login_on.php on line 10
+[17-Jun-2018 08:23:53 UTC] PHP Stack trace:
+[17-Jun-2018 08:23:53 UTC] PHP   1. {main}() /home/u261568441/public_html/templates/login_on.php:0
+[17-Jun-2018 11:30:13 UTC] PHP Notice:  Undefined variable: userfos in /home/u261568441/public_html/templates/deconnexion.php on line 12
+[17-Jun-2018 11:30:13 UTC] PHP Stack trace:
+[17-Jun-2018 11:30:13 UTC] PHP   1. {main}() /home/u261568441/public_html/templates/deconnexion.php:0
+[17-Jun-2018 11:38:41 UTC] PHP Notice:  Undefined variable: userfos in /home/u261568441/public_html/templates/login_on.php on line 10
+[17-Jun-2018 11:38:41 UTC] PHP Stack trace:
+[17-Jun-2018 11:38:41 UTC] PHP   1. {main}() /home/u261568441/public_html/templates/login_on.php:0
+[17-Jun-2018 11:38:41 UTC] PHP Notice:  Undefined variable: userfos in /home/u261568441/public_html/templates/login_on.php on line 10
+[17-Jun-2018 11:38:41 UTC] PHP Stack trace:
+[17-Jun-2018 11:38:41 UTC] PHP   1. {main}() /home/u261568441/public_html/templates/login_on.php:0
+[17-Jun-2018 15:23:44 UTC] PHP Notice:  Undefined variable: userfos in /home/u261568441/public_html/templates/login_on.php on line 10
+[17-Jun-2018 15:23:44 UTC] PHP Stack trace:
+[17-Jun-2018 15:23:44 UTC] PHP   1. {main}() /home/u261568441/public_html/templates/login_on.php:0
+[17-Jun-2018 16:27:22 UTC] PHP Notice:  Undefined variable: userfos in /home/u261568441/public_html/templates/deconnexion.php on line 12
+[17-Jun-2018 16:27:22 UTC] PHP Stack trace:
+[17-Jun-2018 16:27:22 UTC] PHP   1. {main}() /home/u261568441/public_html/templates/deconnexion.php:0
+[17-Jun-2018 17:13:04 UTC] PHP Notice:  Undefined variable: userfos in /home/u261568441/public_html/templates/login_on.php on line 10
+[17-Jun-2018 17:13:04 UTC] PHP Stack trace:
+[17-Jun-2018 17:13:04 UTC] PHP   1. {main}() /home/u261568441/public_html/templates/login_on.php:0
+[17-Jun-2018 19:53:37 UTC] PHP Notice:  Undefined variable: userfos in /home/u261568441/public_html/templates/login_on.php on line 10
+[17-Jun-2018 19:53:37 UTC] PHP Stack trace:
+[17-Jun-2018 19:53:37 UTC] PHP   1. {main}() /home/u261568441/public_html/templates/login_on.php:0
+[17-Jun-2018 20:42:22 UTC] PHP Notice:  Undefined variable: userfos in /home/u261568441/public_html/templates/deconnexion.php on line 12
+[17-Jun-2018 20:42:22 UTC] PHP Stack trace:
+[17-Jun-2018 20:42:22 UTC] PHP   1. {main}() /home/u261568441/public_html/templates/deconnexion.php:0
+[17-Jun-2018 23:06:55 UTC] PHP Notice:  Undefined variable: userfos in /home/u261568441/public_html/templates/login_on.php on line 10
+[17-Jun-2018 23:06:55 UTC] PHP Stack trace:
+[17-Jun-2018 23:06:55 UTC] PHP   1. {main}() /home/u261568441/public_html/templates/login_on.php:0
+[18-Jun-2018 02:15:00 UTC] PHP Notice:  Undefined variable: userfos in /home/u261568441/public_html/templates/deconnexion.php on line 12
+[18-Jun-2018 02:15:00 UTC] PHP Stack trace:
+[18-Jun-2018 02:15:00 UTC] PHP   1. {main}() /home/u261568441/public_html/templates/deconnexion.php:0
+[18-Jun-2018 02:33:00 UTC] PHP Notice:  Undefined variable: userfos in /home/u261568441/public_html/templates/login_on.php on line 10
+[18-Jun-2018 02:33:00 UTC] PHP Stack trace:
+[18-Jun-2018 02:33:00 UTC] PHP   1. {main}() /home/u261568441/public_html/templates/login_on.php:0
+[18-Jun-2018 02:40:08 UTC] PHP Notice:  Undefined variable: userfos in /home/u261568441/public_html/templates/deconnexion.php on line 12
+[18-Jun-2018 02:40:08 UTC] PHP Stack trace:
+[18-Jun-2018 02:40:08 UTC] PHP   1. {main}() /home/u261568441/public_html/templates/deconnexion.php:0
+[18-Jun-2018 02:40:19 UTC] PHP Notice:  Undefined variable: userfos in /home/u261568441/public_html/templates/login_on.php on line 10
+[18-Jun-2018 02:40:19 UTC] PHP Stack trace:
+[18-Jun-2018 02:40:19 UTC] PHP   1. {main}() /home/u261568441/public_html/templates/login_on.php:0
+[18-Jun-2018 02:52:07 UTC] PHP Notice:  Undefined variable: userfos in /home/u261568441/public_html/templates/deconnexion.php on line 12
+[18-Jun-2018 02:52:07 UTC] PHP Stack trace:
+[18-Jun-2018 02:52:07 UTC] PHP   1. {main}() /home/u261568441/public_html/templates/deconnexion.php:0
+[18-Jun-2018 06:23:41 UTC] PHP Notice:  Undefined variable: userfos in /home/u261568441/public_html/templates/login_on.php on line 10
+[18-Jun-2018 06:23:41 UTC] PHP Stack trace:
+[18-Jun-2018 06:23:41 UTC] PHP   1. {main}() /home/u261568441/public_html/templates/login_on.php:0
+[18-Jun-2018 22:37:03 UTC] PHP Notice:  Undefined variable: userfos in /home/u261568441/public_html/templates/login_on.php on line 10
+[18-Jun-2018 22:37:03 UTC] PHP Stack trace:
+[18-Jun-2018 22:37:03 UTC] PHP   1. {main}() /home/u261568441/public_html/templates/login_on.php:0
+[18-Jun-2018 22:37:03 UTC] PHP Notice:  Undefined variable: userfos in /home/u261568441/public_html/templates/deconnexion.php on line 12
+[18-Jun-2018 22:37:03 UTC] PHP Stack trace:
+[18-Jun-2018 22:37:03 UTC] PHP   1. {main}() /home/u261568441/public_html/templates/deconnexion.php:0
+[18-Jun-2018 22:37:17 UTC] PHP Notice:  Undefined variable: userfos in /home/u261568441/public_html/templates/login_on.php on line 10
+[18-Jun-2018 22:37:17 UTC] PHP Stack trace:
+[18-Jun-2018 22:37:17 UTC] PHP   1. {main}() /home/u261568441/public_html/templates/login_on.php:0
+[19-Jun-2018 01:05:30 UTC] PHP Notice:  Undefined variable: userfos in /home/u261568441/public_html/templates/deconnexion.php on line 12
+[19-Jun-2018 01:05:30 UTC] PHP Stack trace:
+[19-Jun-2018 01:05:30 UTC] PHP   1. {main}() /home/u261568441/public_html/templates/deconnexion.php:0
+[19-Jun-2018 05:26:44 UTC] PHP Notice:  Undefined variable: userfos in /home/u261568441/public_html/templates/login_on.php on line 10
+[19-Jun-2018 05:26:44 UTC] PHP Stack trace:
+[19-Jun-2018 05:26:44 UTC] PHP   1. {main}() /home/u261568441/public_html/templates/login_on.php:0
+[19-Jun-2018 08:18:11 UTC] PHP Notice:  Undefined variable: userfos in /home/u261568441/public_html/templates/login_on.php on line 10
+[19-Jun-2018 08:18:11 UTC] PHP Stack trace:
+[19-Jun-2018 08:18:11 UTC] PHP   1. {main}() /home/u261568441/public_html/templates/login_on.php:0
+[19-Jun-2018 08:34:50 UTC] PHP Notice:  Undefined variable: userfos in /home/u261568441/public_html/templates/deconnexion.php on line 12
+[19-Jun-2018 08:34:50 UTC] PHP Stack trace:
+[19-Jun-2018 08:34:50 UTC] PHP   1. {main}() /home/u261568441/public_html/templates/deconnexion.php:0
+[19-Jun-2018 08:34:55 UTC] PHP Notice:  Undefined variable: userfos in /home/u261568441/public_html/templates/login_on.php on line 10
+[19-Jun-2018 08:34:55 UTC] PHP Stack trace:
+[19-Jun-2018 08:34:55 UTC] PHP   1. {main}() /home/u261568441/public_html/templates/login_on.php:0
+[19-Jun-2018 08:35:44 UTC] PHP Notice:  Undefined variable: userfos in /home/u261568441/public_html/templates/deconnexion.php on line 12
+[19-Jun-2018 08:35:44 UTC] PHP Stack trace:
+[19-Jun-2018 08:35:44 UTC] PHP   1. {main}() /home/u261568441/public_html/templates/deconnexion.php:0
+[19-Jun-2018 08:36:05 UTC] PHP Notice:  Undefined variable: userfos in /home/u261568441/public_html/templates/login_on.php on line 10
+[19-Jun-2018 08:36:05 UTC] PHP Stack trace:
+[19-Jun-2018 08:36:05 UTC] PHP   1. {main}() /home/u261568441/public_html/templates/login_on.php:0
+[19-Jun-2018 08:36:16 UTC] PHP Notice:  Undefined variable: userfos in /home/u261568441/public_html/templates/deconnexion.php on line 12
+[19-Jun-2018 08:36:16 UTC] PHP Stack trace:
+[19-Jun-2018 08:36:16 UTC] PHP   1. {main}() /home/u261568441/public_html/templates/deconnexion.php:0
+[19-Jun-2018 08:36:18 UTC] PHP Notice:  Undefined variable: userfos in /home/u261568441/public_html/templates/deconnexion.php on line 12
+[19-Jun-2018 08:36:18 UTC] PHP Stack trace:
+[19-Jun-2018 08:36:18 UTC] PHP   1. {main}() /home/u261568441/public_html/templates/deconnexion.php:0
+[19-Jun-2018 08:36:20 UTC] PHP Notice:  Undefined variable: userfos in /home/u261568441/public_html/templates/login_on.php on line 10
+[19-Jun-2018 08:36:20 UTC] PHP Stack trace:
+[19-Jun-2018 08:36:20 UTC] PHP   1. {main}() /home/u261568441/public_html/templates/login_on.php:0
+[19-Jun-2018 08:36:46 UTC] PHP Notice:  Undefined variable: userfos in /home/u261568441/public_html/templates/login_on.php on line 10
+[19-Jun-2018 08:36:46 UTC] PHP Stack trace:
+[19-Jun-2018 08:36:46 UTC] PHP   1. {main}() /home/u261568441/public_html/templates/login_on.php:0
+[19-Jun-2018 10:17:18 UTC] PHP Notice:  Undefined variable: userfos in /home/u261568441/public_html/templates/deconnexion.php on line 12
+[19-Jun-2018 10:17:18 UTC] PHP Stack trace:
+[19-Jun-2018 10:17:18 UTC] PHP   1. {main}() /home/u261568441/public_html/templates/deconnexion.php:0
+[19-Jun-2018 18:28:17 UTC] PHP Notice:  Undefined variable: userfos in /home/u261568441/public_html/templates/login_on.php on line 10
+[19-Jun-2018 18:28:17 UTC] PHP Stack trace:
+[19-Jun-2018 18:28:17 UTC] PHP   1. {main}() /home/u261568441/public_html/templates/login_on.php:0
+[20-Jun-2018 22:33:50 UTC] PHP Notice:  Undefined variable: userfos in /home/u261568441/public_html/templates/login_on.php on line 10
+[20-Jun-2018 22:33:50 UTC] PHP Stack trace:
+[20-Jun-2018 22:33:50 UTC] PHP   1. {main}() /home/u261568441/public_html/templates/login_on.php:0
+[20-Jun-2018 22:54:24 UTC] PHP Notice:  Undefined variable: userfos in /home/u261568441/public_html/templates/deconnexion.php on line 12
+[20-Jun-2018 22:54:24 UTC] PHP Stack trace:
+[20-Jun-2018 22:54:24 UTC] PHP   1. {main}() /home/u261568441/public_html/templates/deconnexion.php:0
+[20-Jun-2018 22:54:34 UTC] PHP Notice:  Undefined variable: userfos in /home/u261568441/public_html/templates/login_on.php on line 10
+[20-Jun-2018 22:54:34 UTC] PHP Stack trace:
+[20-Jun-2018 22:54:34 UTC] PHP   1. {main}() /home/u261568441/public_html/templates/login_on.php:0
+[20-Jun-2018 23:06:43 UTC] PHP Notice:  Undefined variable: userfos in /home/u261568441/public_html/templates/login_on.php on line 10
+[20-Jun-2018 23:06:43 UTC] PHP Stack trace:
+[20-Jun-2018 23:06:43 UTC] PHP   1. {main}() /home/u261568441/public_html/templates/login_on.php:0
+[20-Jun-2018 23:09:06 UTC] PHP Notice:  Undefined variable: userfos in /home/u261568441/public_html/templates/deconnexion.php on line 12
+[20-Jun-2018 23:09:06 UTC] PHP Stack trace:
+[20-Jun-2018 23:09:06 UTC] PHP   1. {main}() /home/u261568441/public_html/templates/deconnexion.php:0
+[20-Jun-2018 23:09:39 UTC] PHP Notice:  Undefined variable: userfos in /home/u261568441/public_html/templates/deconnexion.php on line 12
+[20-Jun-2018 23:09:39 UTC] PHP Stack trace:
+[20-Jun-2018 23:09:39 UTC] PHP   1. {main}() /home/u261568441/public_html/templates/deconnexion.php:0
+[20-Jun-2018 23:12:55 UTC] PHP Notice:  Undefined variable: userfos in /home/u261568441/public_html/templates/login_on.php on line 10
+[20-Jun-2018 23:12:55 UTC] PHP Stack trace:
+[20-Jun-2018 23:12:55 UTC] PHP   1. {main}() /home/u261568441/public_html/templates/login_on.php:0
+[20-Jun-2018 23:13:23 UTC] PHP Notice:  Undefined variable: userfos in /home/u261568441/public_html/templates/deconnexion.php on line 12
+[20-Jun-2018 23:13:23 UTC] PHP Stack trace:
+[20-Jun-2018 23:13:23 UTC] PHP   1. {main}() /home/u261568441/public_html/templates/deconnexion.php:0
+[20-Jun-2018 23:13:31 UTC] PHP Notice:  Undefined variable: userfos in /home/u261568441/public_html/templates/deconnexion.php on line 12
+[20-Jun-2018 23:13:31 UTC] PHP Stack trace:
+[20-Jun-2018 23:13:31 UTC] PHP   1. {main}() /home/u261568441/public_html/templates/deconnexion.php:0
+[20-Jun-2018 23:13:40 UTC] PHP Notice:  Undefined variable: userfos in /home/u261568441/public_html/templates/login_on.php on line 10
+[20-Jun-2018 23:13:40 UTC] PHP Stack trace:
+[20-Jun-2018 23:13:40 UTC] PHP   1. {main}() /home/u261568441/public_html/templates/login_on.php:0
+[20-Jun-2018 23:17:03 UTC] PHP Notice:  Undefined variable: userfos in /home/u261568441/public_html/templates/deconnexion.php on line 12
+[20-Jun-2018 23:17:03 UTC] PHP Stack trace:
+[20-Jun-2018 23:17:03 UTC] PHP   1. {main}() /home/u261568441/public_html/templates/deconnexion.php:0
+[20-Jun-2018 23:46:54 UTC] PHP Notice:  Undefined variable: userfos in /home/u261568441/public_html/templates/login_on.php on line 10
+[20-Jun-2018 23:46:54 UTC] PHP Stack trace:
+[20-Jun-2018 23:46:54 UTC] PHP   1. {main}() /home/u261568441/public_html/templates/login_on.php:0
+[21-Jun-2018 01:42:57 UTC] PHP Notice:  Undefined variable: userfos in /home/u261568441/public_html/templates/deconnexion.php on line 12
+[21-Jun-2018 01:42:57 UTC] PHP Stack trace:
+[21-Jun-2018 01:42:57 UTC] PHP   1. {main}() /home/u261568441/public_html/templates/deconnexion.php:0
+[21-Jun-2018 01:45:41 UTC] PHP Notice:  Undefined variable: userfos in /home/u261568441/public_html/templates/login_on.php on line 10
+[21-Jun-2018 01:45:41 UTC] PHP Stack trace:
+[21-Jun-2018 01:45:41 UTC] PHP   1. {main}() /home/u261568441/public_html/templates/login_on.php:0
+[21-Jun-2018 02:27:24 UTC] PHP Notice:  Undefined variable: userfos in /home/u261568441/public_html/templates/deconnexion.php on line 12
+[21-Jun-2018 02:27:24 UTC] PHP Stack trace:
+[21-Jun-2018 02:27:24 UTC] PHP   1. {main}() /home/u261568441/public_html/templates/deconnexion.php:0
+[21-Jun-2018 02:48:58 UTC] PHP Notice:  Undefined variable: userfos in /home/u261568441/public_html/templates/login_on.php on line 10
+[21-Jun-2018 02:48:58 UTC] PHP Stack trace:
+[21-Jun-2018 02:48:58 UTC] PHP   1. {main}() /home/u261568441/public_html/templates/login_on.php:0
+[21-Jun-2018 02:50:51 UTC] PHP Notice:  Undefined variable: userfos in /home/u261568441/public_html/templates/deconnexion.php on line 12
+[21-Jun-2018 02:50:51 UTC] PHP Stack trace:
+[21-Jun-2018 02:50:51 UTC] PHP   1. {main}() /home/u261568441/public_html/templates/deconnexion.php:0
+[21-Jun-2018 02:51:03 UTC] PHP Notice:  Undefined variable: userfos in /home/u261568441/public_html/templates/login_on.php on line 10
+[21-Jun-2018 02:51:03 UTC] PHP Stack trace:
+[21-Jun-2018 02:51:03 UTC] PHP   1. {main}() /home/u261568441/public_html/templates/login_on.php:0
+[21-Jun-2018 03:24:13 UTC] PHP Notice:  Undefined variable: userfos in /home/u261568441/public_html/templates/deconnexion.php on line 12
+[21-Jun-2018 03:24:13 UTC] PHP Stack trace:
+[21-Jun-2018 03:24:13 UTC] PHP   1. {main}() /home/u261568441/public_html/templates/deconnexion.php:0
+[21-Jun-2018 03:25:47 UTC] PHP Notice:  Undefined variable: userfos in /home/u261568441/public_html/templates/login_on.php on line 10
+[21-Jun-2018 03:25:47 UTC] PHP Stack trace:
+[21-Jun-2018 03:25:47 UTC] PHP   1. {main}() /home/u261568441/public_html/templates/login_on.php:0
+[21-Jun-2018 03:30:13 UTC] PHP Notice:  Undefined variable: userfos in /home/u261568441/public_html/templates/deconnexion.php on line 12
+[21-Jun-2018 03:30:13 UTC] PHP Stack trace:
+[21-Jun-2018 03:30:13 UTC] PHP   1. {main}() /home/u261568441/public_html/templates/deconnexion.php:0
+[21-Jun-2018 06:56:33 UTC] PHP Notice:  Undefined variable: userfos in /home/u261568441/public_html/templates/login_on.php on line 10
+[21-Jun-2018 06:56:33 UTC] PHP Stack trace:
+[21-Jun-2018 06:56:33 UTC] PHP   1. {main}() /home/u261568441/public_html/templates/login_on.php:0
+[21-Jun-2018 11:46:32 UTC] PHP Notice:  Undefined variable: userfos in /home/u261568441/public_html/templates/login_on.php on line 10
+[21-Jun-2018 11:46:32 UTC] PHP Stack trace:
+[21-Jun-2018 11:46:32 UTC] PHP   1. {main}() /home/u261568441/public_html/templates/login_on.php:0
+[21-Jun-2018 11:46:32 UTC] PHP Notice:  Undefined variable: userfos in /home/u261568441/public_html/templates/login_on.php on line 10
+[21-Jun-2018 11:46:32 UTC] PHP Stack trace:
+[21-Jun-2018 11:46:32 UTC] PHP   1. {main}() /home/u261568441/public_html/templates/login_on.php:0
+[21-Jun-2018 11:46:34 UTC] PHP Notice:  Undefined variable: userfos in /home/u261568441/public_html/templates/deconnexion.php on line 12
+[21-Jun-2018 11:46:34 UTC] PHP Stack trace:
+[21-Jun-2018 11:46:34 UTC] PHP   1. {main}() /home/u261568441/public_html/templates/deconnexion.php:0
+[21-Jun-2018 11:46:45 UTC] PHP Notice:  Undefined variable: userfos in /home/u261568441/public_html/templates/login_on.php on line 10
+[21-Jun-2018 11:46:45 UTC] PHP Stack trace:
+[21-Jun-2018 11:46:45 UTC] PHP   1. {main}() /home/u261568441/public_html/templates/login_on.php:0
+[21-Jun-2018 11:46:46 UTC] PHP Notice:  Undefined variable: userfos in /home/u261568441/public_html/templates/login_on.php on line 10
+[21-Jun-2018 11:46:46 UTC] PHP Stack trace:
+[21-Jun-2018 11:46:46 UTC] PHP   1. {main}() /home/u261568441/public_html/templates/login_on.php:0
+[21-Jun-2018 13:00:37 UTC] PHP Notice:  Undefined variable: userfos in /home/u261568441/public_html/templates/login_on.php on line 10
+[21-Jun-2018 13:00:37 UTC] PHP Stack trace:
+[21-Jun-2018 13:00:37 UTC] PHP   1. {main}() /home/u261568441/public_html/templates/login_on.php:0
+[21-Jun-2018 13:02:22 UTC] PHP Notice:  Undefined variable: userfos in /home/u261568441/public_html/templates/deconnexion.php on line 12
+[21-Jun-2018 13:02:22 UTC] PHP Stack trace:
+[21-Jun-2018 13:02:22 UTC] PHP   1. {main}() /home/u261568441/public_html/templates/deconnexion.php:0
+[23-Jun-2018 21:02:52 UTC] PHP Notice:  Undefined variable: userfos in /home/u261568441/public_html/templates/login_on.php on line 10
+[23-Jun-2018 21:02:52 UTC] PHP Stack trace:
+[23-Jun-2018 21:02:52 UTC] PHP   1. {main}() /home/u261568441/public_html/templates/login_on.php:0
+[24-Jun-2018 00:12:36 UTC] PHP Notice:  Undefined variable: userfos in /home/u261568441/public_html/templates/login_on.php on line 10
+[24-Jun-2018 00:12:36 UTC] PHP Stack trace:
+[24-Jun-2018 00:12:36 UTC] PHP   1. {main}() /home/u261568441/public_html/templates/login_on.php:0
+[24-Jun-2018 00:12:37 UTC] PHP Notice:  Undefined variable: userfos in /home/u261568441/public_html/templates/deconnexion.php on line 12
+[24-Jun-2018 00:12:37 UTC] PHP Stack trace:
+[24-Jun-2018 00:12:37 UTC] PHP   1. {main}() /home/u261568441/public_html/templates/deconnexion.php:0
+[24-Jun-2018 00:12:46 UTC] PHP Notice:  Undefined variable: userfos in /home/u261568441/public_html/templates/login_on.php on line 10
+[24-Jun-2018 00:12:46 UTC] PHP Stack trace:
+[24-Jun-2018 00:12:46 UTC] PHP   1. {main}() /home/u261568441/public_html/templates/login_on.php:0
+[24-Jun-2018 03:53:55 UTC] PHP Notice:  Undefined variable: userfos in /home/u261568441/public_html/templates/deconnexion.php on line 12
+[24-Jun-2018 03:53:55 UTC] PHP Stack trace:
+[24-Jun-2018 03:53:55 UTC] PHP   1. {main}() /home/u261568441/public_html/templates/deconnexion.php:0
+[24-Jun-2018 15:24:31 UTC] PHP Notice:  Undefined variable: userfos in /home/u261568441/public_html/templates/login_on.php on line 10
+[24-Jun-2018 15:24:31 UTC] PHP Stack trace:
+[24-Jun-2018 15:24:31 UTC] PHP   1. {main}() /home/u261568441/public_html/templates/login_on.php:0
+[25-Jun-2018 12:54:02 UTC] PHP Notice:  Undefined variable: userfos in /home/u261568441/public_html/templates/login_on.php on line 10
+[25-Jun-2018 12:54:02 UTC] PHP Stack trace:
+[25-Jun-2018 12:54:02 UTC] PHP   1. {main}() /home/u261568441/public_html/templates/login_on.php:0
+[27-Jun-2018 12:27:59 UTC] PHP Notice:  Undefined variable: userfos in /home/u261568441/public_html/templates/login_on.php on line 10
+[27-Jun-2018 12:27:59 UTC] PHP Stack trace:
+[27-Jun-2018 12:27:59 UTC] PHP   1. {main}() /home/u261568441/public_html/templates/login_on.php:0
+[27-Jun-2018 14:41:41 UTC] PHP Notice:  Undefined variable: userfos in /home/u261568441/public_html/templates/deconnexion.php on line 12
+[27-Jun-2018 14:41:41 UTC] PHP Stack trace:
+[27-Jun-2018 14:41:41 UTC] PHP   1. {main}() /home/u261568441/public_html/templates/deconnexion.php:0
+[27-Jun-2018 16:01:44 UTC] PHP Notice:  Undefined variable: userfos in /home/u261568441/public_html/templates/login_on.php on line 10
+[27-Jun-2018 16:01:44 UTC] PHP Stack trace:
+[27-Jun-2018 16:01:44 UTC] PHP   1. {main}() /home/u261568441/public_html/templates/login_on.php:0
+[27-Jun-2018 19:47:43 UTC] PHP Notice:  Undefined variable: userfos in /home/u261568441/public_html/templates/login_on.php on line 10
+[27-Jun-2018 19:47:43 UTC] PHP Stack trace:
+[27-Jun-2018 19:47:43 UTC] PHP   1. {main}() /home/u261568441/public_html/templates/login_on.php:0
+[28-Jun-2018 07:16:52 UTC] PHP Notice:  Undefined variable: userfos in /home/u261568441/public_html/templates/login_on.php on line 10
+[28-Jun-2018 07:16:52 UTC] PHP Stack trace:
+[28-Jun-2018 07:16:52 UTC] PHP   1. {main}() /home/u261568441/public_html/templates/login_on.php:0
+[28-Jun-2018 09:41:15 UTC] PHP Notice:  Undefined variable: userfos in /home/u261568441/public_html/templates/login_on.php on line 10
+[28-Jun-2018 09:41:15 UTC] PHP Stack trace:
+[28-Jun-2018 09:41:15 UTC] PHP   1. {main}() /home/u261568441/public_html/templates/login_on.php:0
+[28-Jun-2018 14:15:03 UTC] PHP Notice:  Undefined variable: userfos in /home/u261568441/public_html/templates/login_on.php on line 10
+[28-Jun-2018 14:15:03 UTC] PHP Stack trace:
+[28-Jun-2018 14:15:03 UTC] PHP   1. {main}() /home/u261568441/public_html/templates/login_on.php:0
+[28-Jun-2018 22:44:10 UTC] PHP Notice:  Undefined variable: userfos in /home/u261568441/public_html/templates/login_on.php on line 10
+[28-Jun-2018 22:44:10 UTC] PHP Stack trace:
+[28-Jun-2018 22:44:10 UTC] PHP   1. {main}() /home/u261568441/public_html/templates/login_on.php:0
+[29-Jun-2018 03:43:13 UTC] PHP Notice:  Undefined variable: userfos in /home/u261568441/public_html/templates/deconnexion.php on line 12
+[29-Jun-2018 03:43:13 UTC] PHP Stack trace:
+[29-Jun-2018 03:43:13 UTC] PHP   1. {main}() /home/u261568441/public_html/templates/deconnexion.php:0
+[29-Jun-2018 07:12:36 UTC] PHP Notice:  Undefined variable: userfos in /home/u261568441/public_html/templates/login_on.php on line 10
+[29-Jun-2018 07:12:36 UTC] PHP Stack trace:
+[29-Jun-2018 07:12:36 UTC] PHP   1. {main}() /home/u261568441/public_html/templates/login_on.php:0
+[29-Jun-2018 08:16:27 UTC] PHP Notice:  Undefined variable: userfos in /home/u261568441/public_html/templates/login_on.php on line 10
+[29-Jun-2018 08:16:27 UTC] PHP Stack trace:
+[29-Jun-2018 08:16:27 UTC] PHP   1. {main}() /home/u261568441/public_html/templates/login_on.php:0
+[29-Jun-2018 16:24:59 UTC] PHP Notice:  Undefined variable: userfos in /home/u261568441/public_html/templates/login_on.php on line 10
+[29-Jun-2018 16:24:59 UTC] PHP Stack trace:
+[29-Jun-2018 16:24:59 UTC] PHP   1. {main}() /home/u261568441/public_html/templates/login_on.php:0
+[29-Jun-2018 17:00:24 UTC] PHP Notice:  Undefined variable: userfos in /home/u261568441/public_html/templates/login_on.php on line 10
+[29-Jun-2018 17:00:24 UTC] PHP Stack trace:
+[29-Jun-2018 17:00:24 UTC] PHP   1. {main}() /home/u261568441/public_html/templates/login_on.php:0
+[01-Jul-2018 10:35:30 UTC] PHP Notice:  Undefined variable: userfos in /home/u261568441/public_html/templates/login_on.php on line 10
+[01-Jul-2018 10:35:30 UTC] PHP Stack trace:
+[01-Jul-2018 10:35:30 UTC] PHP   1. {main}() /home/u261568441/public_html/templates/login_on.php:0
+[01-Jul-2018 15:20:29 UTC] PHP Notice:  Undefined variable: userfos in /home/u261568441/public_html/templates/login_on.php on line 10
+[01-Jul-2018 15:20:29 UTC] PHP Stack trace:
+[01-Jul-2018 15:20:29 UTC] PHP   1. {main}() /home/u261568441/public_html/templates/login_on.php:0
+[01-Jul-2018 16:28:47 UTC] PHP Notice:  Undefined variable: userfos in /home/u261568441/public_html/templates/login_on.php on line 10
+[01-Jul-2018 16:28:47 UTC] PHP Stack trace:
+[01-Jul-2018 16:28:47 UTC] PHP   1. {main}() /home/u261568441/public_html/templates/login_on.php:0
+[01-Jul-2018 17:48:51 UTC] PHP Notice:  Undefined variable: userfos in /home/u261568441/public_html/templates/login_on.php on line 10
+[01-Jul-2018 17:48:51 UTC] PHP Stack trace:
+[01-Jul-2018 17:48:51 UTC] PHP   1. {main}() /home/u261568441/public_html/templates/login_on.php:0
+[01-Jul-2018 23:02:33 UTC] PHP Notice:  Undefined variable: userfos in /home/u261568441/public_html/templates/login_on.php on line 10
+[01-Jul-2018 23:02:33 UTC] PHP Stack trace:
+[01-Jul-2018 23:02:33 UTC] PHP   1. {main}() /home/u261568441/public_html/templates/login_on.php:0
+[02-Jul-2018 02:01:42 UTC] PHP Notice:  Undefined variable: userfos in /home/u261568441/public_html/templates/deconnexion.php on line 12
+[02-Jul-2018 02:01:42 UTC] PHP Stack trace:
+[02-Jul-2018 02:01:42 UTC] PHP   1. {main}() /home/u261568441/public_html/templates/deconnexion.php:0
+[02-Jul-2018 08:00:10 UTC] PHP Notice:  Undefined variable: userfos in /home/u261568441/public_html/templates/login_on.php on line 10
+[02-Jul-2018 08:00:10 UTC] PHP Stack trace:
+[02-Jul-2018 08:00:10 UTC] PHP   1. {main}() /home/u261568441/public_html/templates/login_on.php:0
+[02-Jul-2018 09:07:47 UTC] PHP Notice:  Undefined variable: userfos in /home/u261568441/public_html/templates/deconnexion.php on line 12
+[02-Jul-2018 09:07:47 UTC] PHP Stack trace:
+[02-Jul-2018 09:07:47 UTC] PHP   1. {main}() /home/u261568441/public_html/templates/deconnexion.php:0
+[02-Jul-2018 09:08:07 UTC] PHP Notice:  Undefined variable: userfos in /home/u261568441/public_html/templates/login_on.php on line 10
+[02-Jul-2018 09:08:07 UTC] PHP Stack trace:
+[02-Jul-2018 09:08:07 UTC] PHP   1. {main}() /home/u261568441/public_html/templates/login_on.php:0
+[02-Jul-2018 10:32:11 UTC] PHP Notice:  Undefined variable: userfos in /home/u261568441/public_html/templates/deconnexion.php on line 12
+[02-Jul-2018 10:32:11 UTC] PHP Stack trace:
+[02-Jul-2018 10:32:11 UTC] PHP   1. {main}() /home/u261568441/public_html/templates/deconnexion.php:0
+[02-Jul-2018 10:32:17 UTC] PHP Notice:  Undefined variable: userfos in /home/u261568441/public_html/templates/login_on.php on line 10
+[02-Jul-2018 10:32:17 UTC] PHP Stack trace:
+[02-Jul-2018 10:32:17 UTC] PHP   1. {main}() /home/u261568441/public_html/templates/login_on.php:0
+[02-Jul-2018 17:36:24 UTC] PHP Notice:  Undefined variable: userfos in /home/u261568441/public_html/templates/deconnexion.php on line 12
+[02-Jul-2018 17:36:24 UTC] PHP Stack trace:
+[02-Jul-2018 17:36:24 UTC] PHP   1. {main}() /home/u261568441/public_html/templates/deconnexion.php:0
+[02-Jul-2018 17:37:22 UTC] PHP Notice:  Undefined variable: userfos in /home/u261568441/public_html/templates/login_on.php on line 10
+[02-Jul-2018 17:37:22 UTC] PHP Stack trace:
+[02-Jul-2018 17:37:22 UTC] PHP   1. {main}() /home/u261568441/public_html/templates/login_on.php:0
+[02-Jul-2018 17:38:07 UTC] PHP Notice:  Undefined variable: userfos in /home/u261568441/public_html/templates/deconnexion.php on line 12
+[02-Jul-2018 17:38:07 UTC] PHP Stack trace:
+[02-Jul-2018 17:38:07 UTC] PHP   1. {main}() /home/u261568441/public_html/templates/deconnexion.php:0
+[02-Jul-2018 17:50:22 UTC] PHP Notice:  Undefined variable: userfos in /home/u261568441/public_html/templates/login_on.php on line 10
+[02-Jul-2018 17:50:22 UTC] PHP Stack trace:
+[02-Jul-2018 17:50:22 UTC] PHP   1. {main}() /home/u261568441/public_html/templates/login_on.php:0
+[02-Jul-2018 17:51:04 UTC] PHP Notice:  Undefined variable: userfos in /home/u261568441/public_html/templates/deconnexion.php on line 12
+[02-Jul-2018 17:51:04 UTC] PHP Stack trace:
+[02-Jul-2018 17:51:04 UTC] PHP   1. {main}() /home/u261568441/public_html/templates/deconnexion.php:0
+[03-Jul-2018 03:59:44 UTC] PHP Notice:  Undefined variable: userfos in /home/u261568441/public_html/templates/login_on.php on line 10
+[03-Jul-2018 03:59:44 UTC] PHP Stack trace:
+[03-Jul-2018 03:59:44 UTC] PHP   1. {main}() /home/u261568441/public_html/templates/login_on.php:0
+[03-Jul-2018 04:22:41 UTC] PHP Notice:  Undefined variable: userfos in /home/u261568441/public_html/templates/deconnexion.php on line 12
+[03-Jul-2018 04:22:41 UTC] PHP Stack trace:
+[03-Jul-2018 04:22:41 UTC] PHP   1. {main}() /home/u261568441/public_html/templates/deconnexion.php:0
+[03-Jul-2018 08:07:29 UTC] PHP Notice:  Undefined variable: userfos in /home/u261568441/public_html/templates/login_on.php on line 10
+[03-Jul-2018 08:07:29 UTC] PHP Stack trace:
+[03-Jul-2018 08:07:29 UTC] PHP   1. {main}() /home/u261568441/public_html/templates/login_on.php:0
+[03-Jul-2018 08:19:07 UTC] PHP Notice:  Undefined variable: userfos in /home/u261568441/public_html/templates/login_on.php on line 10
+[03-Jul-2018 08:19:07 UTC] PHP Stack trace:
+[03-Jul-2018 08:19:07 UTC] PHP   1. {main}() /home/u261568441/public_html/templates/login_on.php:0
+[03-Jul-2018 08:53:40 UTC] PHP Notice:  Undefined variable: userfos in /home/u261568441/public_html/templates/deconnexion.php on line 12
+[03-Jul-2018 08:53:40 UTC] PHP Stack trace:
+[03-Jul-2018 08:53:40 UTC] PHP   1. {main}() /home/u261568441/public_html/templates/deconnexion.php:0
+[03-Jul-2018 08:53:46 UTC] PHP Notice:  Undefined variable: userfos in /home/u261568441/public_html/templates/login_on.php on line 10
+[03-Jul-2018 08:53:46 UTC] PHP Stack trace:
+[03-Jul-2018 08:53:46 UTC] PHP   1. {main}() /home/u261568441/public_html/templates/login_on.php:0
+[03-Jul-2018 11:28:19 UTC] PHP Notice:  Undefined variable: userfos in /home/u261568441/public_html/templates/login_on.php on line 10
+[03-Jul-2018 11:28:19 UTC] PHP Stack trace:
+[03-Jul-2018 11:28:19 UTC] PHP   1. {main}() /home/u261568441/public_html/templates/login_on.php:0
+[03-Jul-2018 13:20:34 UTC] PHP Notice:  Undefined variable: userfos in /home/u261568441/public_html/templates/deconnexion.php on line 12
+[03-Jul-2018 13:20:34 UTC] PHP Stack trace:
+[03-Jul-2018 13:20:34 UTC] PHP   1. {main}() /home/u261568441/public_html/templates/deconnexion.php:0
+[03-Jul-2018 13:20:43 UTC] PHP Notice:  Undefined variable: userfos in /home/u261568441/public_html/templates/login_on.php on line 10
+[03-Jul-2018 13:20:43 UTC] PHP Stack trace:
+[03-Jul-2018 13:20:43 UTC] PHP   1. {main}() /home/u261568441/public_html/templates/login_on.php:0
+[03-Jul-2018 16:31:56 UTC] PHP Notice:  Undefined variable: userfos in /home/u261568441/public_html/templates/login_on.php on line 10
+[03-Jul-2018 16:31:56 UTC] PHP Stack trace:
+[03-Jul-2018 16:31:56 UTC] PHP   1. {main}() /home/u261568441/public_html/templates/login_on.php:0
+[03-Jul-2018 17:33:15 UTC] PHP Notice:  Undefined variable: userfos in /home/u261568441/public_html/templates/login_on.php on line 10
+[03-Jul-2018 17:33:15 UTC] PHP Stack trace:
+[03-Jul-2018 17:33:15 UTC] PHP   1. {main}() /home/u261568441/public_html/templates/login_on.php:0
+[03-Jul-2018 17:33:16 UTC] PHP Notice:  Undefined variable: userfos in /home/u261568441/public_html/templates/deconnexion.php on line 12
+[03-Jul-2018 17:33:16 UTC] PHP Stack trace:
+[03-Jul-2018 17:33:16 UTC] PHP   1. {main}() /home/u261568441/public_html/templates/deconnexion.php:0
+[03-Jul-2018 17:33:24 UTC] PHP Notice:  Undefined variable: userfos in /home/u261568441/public_html/templates/login_on.php on line 10
+[03-Jul-2018 17:33:24 UTC] PHP Stack trace:
+[03-Jul-2018 17:33:24 UTC] PHP   1. {main}() /home/u261568441/public_html/templates/login_on.php:0
+[04-Jul-2018 12:03:22 UTC] PHP Notice:  Undefined variable: userfos in /home/u261568441/public_html/templates/login_on.php on line 10
+[04-Jul-2018 12:03:22 UTC] PHP Stack trace:
+[04-Jul-2018 12:03:22 UTC] PHP   1. {main}() /home/u261568441/public_html/templates/login_on.php:0
+[04-Jul-2018 16:31:57 UTC] PHP Notice:  Undefined variable: userfos in /home/u261568441/public_html/templates/deconnexion.php on line 12
+[04-Jul-2018 16:31:57 UTC] PHP Stack trace:
+[04-Jul-2018 16:31:57 UTC] PHP   1. {main}() /home/u261568441/public_html/templates/deconnexion.php:0
+[04-Jul-2018 16:32:05 UTC] PHP Notice:  Undefined variable: userfos in /home/u261568441/public_html/templates/login_on.php on line 10
+[04-Jul-2018 16:32:07 UTC] PHP Stack trace:
+[04-Jul-2018 16:32:07 UTC] PHP   1. {main}() /home/u261568441/public_html/templates/login_on.php:0
+[04-Jul-2018 19:26:11 UTC] PHP Notice:  Undefined variable: userfos in /home/u261568441/public_html/templates/login_on.php on line 10
+[04-Jul-2018 19:26:11 UTC] PHP Stack trace:
+[04-Jul-2018 19:26:11 UTC] PHP   1. {main}() /home/u261568441/public_html/templates/login_on.php:0
+[04-Jul-2018 23:30:07 UTC] PHP Notice:  Undefined variable: userfos in /home/u261568441/public_html/templates/deconnexion.php on line 12
+[04-Jul-2018 23:30:08 UTC] PHP Stack trace:
+[04-Jul-2018 23:30:08 UTC] PHP   1. {main}() /home/u261568441/public_html/templates/deconnexion.php:0
+[04-Jul-2018 23:31:42 UTC] PHP Notice:  Undefined variable: userfos in /home/u261568441/public_html/templates/login_on.php on line 10
+[04-Jul-2018 23:31:42 UTC] PHP Stack trace:
+[04-Jul-2018 23:31:42 UTC] PHP   1. {main}() /home/u261568441/public_html/templates/login_on.php:0
+[05-Jul-2018 03:21:43 UTC] PHP Notice:  Undefined variable: userfos in /home/u261568441/public_html/templates/deconnexion.php on line 12
+[05-Jul-2018 03:21:43 UTC] PHP Stack trace:
+[05-Jul-2018 03:21:43 UTC] PHP   1. {main}() /home/u261568441/public_html/templates/deconnexion.php:0
+[06-Jul-2018 18:36:12 UTC] PHP Notice:  Undefined variable: userfos in /home/u261568441/public_html/templates/login_on.php on line 10
+[06-Jul-2018 18:36:12 UTC] PHP Stack trace:
+[06-Jul-2018 18:36:12 UTC] PHP   1. {main}() /home/u261568441/public_html/templates/login_on.php:0
+[09-Jul-2018 21:47:40 UTC] PHP Notice:  Undefined variable: userfos in /home/u261568441/public_html/templates/login_on.php on line 10
+[09-Jul-2018 21:47:40 UTC] PHP Stack trace:
+[09-Jul-2018 21:47:40 UTC] PHP   1. {main}() /home/u261568441/public_html/templates/login_on.php:0
+[10-Jul-2018 12:01:57 UTC] PHP Notice:  Undefined variable: userfos in /home/u261568441/public_html/templates/login_on.php on line 10
+[10-Jul-2018 12:01:57 UTC] PHP Stack trace:
+[10-Jul-2018 12:01:57 UTC] PHP   1. {main}() /home/u261568441/public_html/templates/login_on.php:0
+[11-Jul-2018 01:35:41 UTC] PHP Notice:  Undefined variable: userfos in /home/u261568441/public_html/templates/login_on.php on line 10
+[11-Jul-2018 01:35:41 UTC] PHP Stack trace:
+[11-Jul-2018 01:35:41 UTC] PHP   1. {main}() /home/u261568441/public_html/templates/login_on.php:0
+[11-Jul-2018 01:53:45 UTC] PHP Notice:  Undefined variable: userfos in /home/u261568441/public_html/templates/deconnexion.php on line 12
+[11-Jul-2018 01:53:45 UTC] PHP Stack trace:
+[11-Jul-2018 01:53:45 UTC] PHP   1. {main}() /home/u261568441/public_html/templates/deconnexion.php:0
+[11-Jul-2018 01:57:34 UTC] PHP Notice:  Undefined variable: userfos in /home/u261568441/public_html/templates/login_on.php on line 10
+[11-Jul-2018 01:57:34 UTC] PHP Stack trace:
+[11-Jul-2018 01:57:34 UTC] PHP   1. {main}() /home/u261568441/public_html/templates/login_on.php:0
+[11-Jul-2018 10:50:06 UTC] PHP Notice:  Undefined variable: userfos in /home/u261568441/public_html/templates/login_on.php on line 10
+[11-Jul-2018 10:50:06 UTC] PHP Stack trace:
+[11-Jul-2018 10:50:06 UTC] PHP   1. {main}() /home/u261568441/public_html/templates/login_on.php:0
+[11-Jul-2018 12:20:49 UTC] PHP Notice:  Undefined variable: userfos in /home/u261568441/public_html/templates/deconnexion.php on line 12
+[11-Jul-2018 12:20:49 UTC] PHP Stack trace:
+[11-Jul-2018 12:20:49 UTC] PHP   1. {main}() /home/u261568441/public_html/templates/deconnexion.php:0
+[11-Jul-2018 12:21:17 UTC] PHP Notice:  Undefined variable: userfos in /home/u261568441/public_html/templates/login_on.php on line 10
+[11-Jul-2018 12:21:17 UTC] PHP Stack trace:
+[11-Jul-2018 12:21:17 UTC] PHP   1. {main}() /home/u261568441/public_html/templates/login_on.php:0
+[11-Jul-2018 12:21:18 UTC] PHP Notice:  Undefined variable: userfos in /home/u261568441/public_html/templates/login_on.php on line 10
+[11-Jul-2018 12:21:18 UTC] PHP Stack trace:
+[11-Jul-2018 12:21:18 UTC] PHP   1. {main}() /home/u261568441/public_html/templates/login_on.php:0
+[11-Jul-2018 12:21:55 UTC] PHP Notice:  Undefined variable: userfos in /home/u261568441/public_html/templates/deconnexion.php on line 12
+[11-Jul-2018 12:21:55 UTC] PHP Stack trace:
+[11-Jul-2018 12:21:55 UTC] PHP   1. {main}() /home/u261568441/public_html/templates/deconnexion.php:0
+[11-Jul-2018 12:21:56 UTC] PHP Notice:  Undefined variable: userfos in /home/u261568441/public_html/templates/deconnexion.php on line 12
+[11-Jul-2018 12:21:56 UTC] PHP Stack trace:
+[11-Jul-2018 12:21:56 UTC] PHP   1. {main}() /home/u261568441/public_html/templates/deconnexion.php:0
+[11-Jul-2018 12:22:17 UTC] PHP Notice:  Undefined variable: userfos in /home/u261568441/public_html/templates/login_on.php on line 10
+[11-Jul-2018 12:22:17 UTC] PHP Stack trace:
+[11-Jul-2018 12:22:17 UTC] PHP   1. {main}() /home/u261568441/public_html/templates/login_on.php:0
+[11-Jul-2018 13:05:02 UTC] PHP Notice:  Undefined variable: userfos in /home/u261568441/public_html/templates/deconnexion.php on line 12
+[11-Jul-2018 13:05:02 UTC] PHP Stack trace:
+[11-Jul-2018 13:05:02 UTC] PHP   1. {main}() /home/u261568441/public_html/templates/deconnexion.php:0
+[11-Jul-2018 13:05:48 UTC] PHP Notice:  Undefined variable: userfos in /home/u261568441/public_html/templates/login_on.php on line 10
+[11-Jul-2018 13:05:48 UTC] PHP Stack trace:
+[11-Jul-2018 13:05:48 UTC] PHP   1. {main}() /home/u261568441/public_html/templates/login_on.php:0
+[11-Jul-2018 13:45:17 UTC] PHP Notice:  Undefined variable: userfos in /home/u261568441/public_html/templates/deconnexion.php on line 12
+[11-Jul-2018 13:45:17 UTC] PHP Stack trace:
+[11-Jul-2018 13:45:17 UTC] PHP   1. {main}() /home/u261568441/public_html/templates/deconnexion.php:0
+[11-Jul-2018 19:08:34 UTC] PHP Notice:  Undefined variable: userfos in /home/u261568441/public_html/templates/login_on.php on line 10
+[11-Jul-2018 19:08:34 UTC] PHP Stack trace:
+[11-Jul-2018 19:08:34 UTC] PHP   1. {main}() /home/u261568441/public_html/templates/login_on.php:0
+[11-Jul-2018 19:08:36 UTC] PHP Notice:  Undefined variable: userfos in /home/u261568441/public_html/templates/deconnexion.php on line 12
+[11-Jul-2018 19:08:36 UTC] PHP Stack trace:
+[11-Jul-2018 19:08:36 UTC] PHP   1. {main}() /home/u261568441/public_html/templates/deconnexion.php:0
+[11-Jul-2018 19:08:42 UTC] PHP Notice:  Undefined variable: userfos in /home/u261568441/public_html/templates/login_on.php on line 10
+[11-Jul-2018 19:08:42 UTC] PHP Stack trace:
+[11-Jul-2018 19:08:42 UTC] PHP   1. {main}() /home/u261568441/public_html/templates/login_on.php:0
+[11-Jul-2018 19:08:42 UTC] PHP Notice:  Undefined variable: userfos in /home/u261568441/public_html/templates/deconnexion.php on line 12
+[11-Jul-2018 19:08:42 UTC] PHP Stack trace:
+[11-Jul-2018 19:08:42 UTC] PHP   1. {main}() /home/u261568441/public_html/templates/deconnexion.php:0
+[11-Jul-2018 19:09:03 UTC] PHP Notice:  Undefined variable: userfos in /home/u261568441/public_html/templates/login_on.php on line 10
+[11-Jul-2018 19:09:03 UTC] PHP Stack trace:
+[11-Jul-2018 19:09:03 UTC] PHP   1. {main}() /home/u261568441/public_html/templates/login_on.php:0
+[14-Jul-2018 23:57:53 UTC] PHP Notice:  Undefined variable: userfos in /home/u261568441/public_html/templates/login_on.php on line 10
+[14-Jul-2018 23:57:53 UTC] PHP Stack trace:
+[14-Jul-2018 23:57:53 UTC] PHP   1. {main}() /home/u261568441/public_html/templates/login_on.php:0
+[14-Jul-2018 23:58:01 UTC] PHP Notice:  Undefined variable: userfos in /home/u261568441/public_html/templates/deconnexion.php on line 12
+[14-Jul-2018 23:58:01 UTC] PHP Stack trace:
+[14-Jul-2018 23:58:01 UTC] PHP   1. {main}() /home/u261568441/public_html/templates/deconnexion.php:0
+[14-Jul-2018 23:58:09 UTC] PHP Notice:  Undefined variable: userfos in /home/u261568441/public_html/templates/login_on.php on line 10
+[14-Jul-2018 23:58:09 UTC] PHP Stack trace:
+[14-Jul-2018 23:58:09 UTC] PHP   1. {main}() /home/u261568441/public_html/templates/login_on.php:0
+[15-Jul-2018 01:15:56 UTC] PHP Notice:  Undefined variable: userfos in /home/u261568441/public_html/templates/deconnexion.php on line 12
+[15-Jul-2018 01:15:56 UTC] PHP Stack trace:
+[15-Jul-2018 01:15:56 UTC] PHP   1. {main}() /home/u261568441/public_html/templates/deconnexion.php:0
+[15-Jul-2018 05:57:10 UTC] PHP Notice:  Undefined variable: userfos in /home/u261568441/public_html/templates/login_on.php on line 10
+[15-Jul-2018 05:57:10 UTC] PHP Stack trace:
+[15-Jul-2018 05:57:10 UTC] PHP   1. {main}() /home/u261568441/public_html/templates/login_on.php:0
+[15-Jul-2018 22:53:03 UTC] PHP Notice:  Undefined variable: userfos in /home/u261568441/public_html/templates/login_on.php on line 10
+[15-Jul-2018 22:53:03 UTC] PHP Stack trace:
+[15-Jul-2018 22:53:03 UTC] PHP   1. {main}() /home/u261568441/public_html/templates/login_on.php:0
+[16-Jul-2018 01:05:14 UTC] PHP Notice:  Undefined variable: userfos in /home/u261568441/public_html/templates/login_on.php on line 10
+[16-Jul-2018 01:05:14 UTC] PHP Stack trace:
+[16-Jul-2018 01:05:14 UTC] PHP   1. {main}() /home/u261568441/public_html/templates/login_on.php:0
+[16-Jul-2018 04:38:32 UTC] PHP Notice:  Undefined variable: userfos in /home/u261568441/public_html/templates/login_on.php on line 10
+[16-Jul-2018 04:38:32 UTC] PHP Stack trace:
+[16-Jul-2018 04:38:32 UTC] PHP   1. {main}() /home/u261568441/public_html/templates/login_on.php:0
+[16-Jul-2018 04:41:01 UTC] PHP Notice:  Undefined variable: userfos in /home/u261568441/public_html/templates/deconnexion.php on line 12
+[16-Jul-2018 04:41:01 UTC] PHP Stack trace:
+[16-Jul-2018 04:41:01 UTC] PHP   1. {main}() /home/u261568441/public_html/templates/deconnexion.php:0
+[16-Jul-2018 15:18:49 UTC] PHP Notice:  Undefined variable: userfos in /home/u261568441/public_html/templates/login_on.php on line 10
+[16-Jul-2018 15:18:49 UTC] PHP Stack trace:
+[16-Jul-2018 15:18:49 UTC] PHP   1. {main}() /home/u261568441/public_html/templates/login_on.php:0
+[16-Jul-2018 15:23:46 UTC] PHP Notice:  Undefined variable: userfos in /home/u261568441/public_html/templates/login_on.php on line 10
+[16-Jul-2018 15:23:46 UTC] PHP Stack trace:
+[16-Jul-2018 15:23:46 UTC] PHP   1. {main}() /home/u261568441/public_html/templates/login_on.php:0
+[16-Jul-2018 15:24:25 UTC] PHP Notice:  Undefined variable: userfos in /home/u261568441/public_html/templates/deconnexion.php on line 12
+[16-Jul-2018 15:24:25 UTC] PHP Stack trace:
+[16-Jul-2018 15:24:25 UTC] PHP   1. {main}() /home/u261568441/public_html/templates/deconnexion.php:0
+[16-Jul-2018 15:24:29 UTC] PHP Notice:  Undefined variable: userfos in /home/u261568441/public_html/templates/login_on.php on line 10
+[16-Jul-2018 15:24:29 UTC] PHP Stack trace:
+[16-Jul-2018 15:24:29 UTC] PHP   1. {main}() /home/u261568441/public_html/templates/login_on.php:0
+[17-Jul-2018 05:38:15 UTC] PHP Notice:  Undefined variable: userfos in /home/u261568441/public_html/templates/login_on.php on line 10
+[17-Jul-2018 05:38:15 UTC] PHP Stack trace:
+[17-Jul-2018 05:38:15 UTC] PHP   1. {main}() /home/u261568441/public_html/templates/login_on.php:0
+[17-Jul-2018 05:56:35 UTC] PHP Notice:  Undefined variable: userfos in /home/u261568441/public_html/templates/deconnexion.php on line 12
+[17-Jul-2018 05:56:35 UTC] PHP Stack trace:
+[17-Jul-2018 05:56:35 UTC] PHP   1. {main}() /home/u261568441/public_html/templates/deconnexion.php:0
+[17-Jul-2018 08:37:44 UTC] PHP Notice:  Undefined variable: userfos in /home/u261568441/public_html/templates/login_on.php on line 10
+[17-Jul-2018 08:37:44 UTC] PHP Stack trace:
+[17-Jul-2018 08:37:44 UTC] PHP   1. {main}() /home/u261568441/public_html/templates/login_on.php:0
+[18-Jul-2018 05:06:56 UTC] PHP Notice:  Undefined variable: userfos in /home/u261568441/public_html/templates/login_on.php on line 10
+[18-Jul-2018 05:06:56 UTC] PHP Stack trace:
+[18-Jul-2018 05:06:56 UTC] PHP   1. {main}() /home/u261568441/public_html/templates/login_on.php:0
+[18-Jul-2018 05:30:58 UTC] PHP Notice:  Undefined variable: userfos in /home/u261568441/public_html/templates/deconnexion.php on line 12
+[18-Jul-2018 05:30:58 UTC] PHP Stack trace:
+[18-Jul-2018 05:30:58 UTC] PHP   1. {main}() /home/u261568441/public_html/templates/deconnexion.php:0
+[18-Jul-2018 09:12:02 UTC] PHP Notice:  Undefined variable: userfos in /home/u261568441/public_html/templates/login_on.php on line 10
+[18-Jul-2018 09:12:02 UTC] PHP Stack trace:
+[18-Jul-2018 09:12:02 UTC] PHP   1. {main}() /home/u261568441/public_html/templates/login_on.php:0
+[18-Jul-2018 09:31:58 UTC] PHP Notice:  Undefined variable: userfos in /home/u261568441/public_html/templates/login_on.php on line 10
+[18-Jul-2018 09:31:58 UTC] PHP Stack trace:
+[18-Jul-2018 09:31:58 UTC] PHP   1. {main}() /home/u261568441/public_html/templates/login_on.php:0
+[18-Jul-2018 09:31:59 UTC] PHP Notice:  Undefined variable: userfos in /home/u261568441/public_html/templates/deconnexion.php on line 12
+[18-Jul-2018 09:31:59 UTC] PHP Stack trace:
+[18-Jul-2018 09:31:59 UTC] PHP   1. {main}() /home/u261568441/public_html/templates/deconnexion.php:0
+[18-Jul-2018 09:32:04 UTC] PHP Notice:  Undefined variable: userfos in /home/u261568441/public_html/templates/login_on.php on line 10
+[18-Jul-2018 09:32:04 UTC] PHP Stack trace:
+[18-Jul-2018 09:32:04 UTC] PHP   1. {main}() /home/u261568441/public_html/templates/login_on.php:0
+[18-Jul-2018 14:15:59 UTC] PHP Notice:  Undefined variable: userfos in /home/u261568441/public_html/templates/deconnexion.php on line 12
+[18-Jul-2018 14:15:59 UTC] PHP Stack trace:
+[18-Jul-2018 14:15:59 UTC] PHP   1. {main}() /home/u261568441/public_html/templates/deconnexion.php:0
+[18-Jul-2018 14:16:28 UTC] PHP Notice:  Undefined variable: userfos in /home/u261568441/public_html/templates/login_on.php on line 10
+[18-Jul-2018 14:16:28 UTC] PHP Stack trace:
+[18-Jul-2018 14:16:28 UTC] PHP   1. {main}() /home/u261568441/public_html/templates/login_on.php:0
+[18-Jul-2018 14:16:39 UTC] PHP Notice:  Undefined variable: userfos in /home/u261568441/public_html/templates/login_on.php on line 10
+[18-Jul-2018 14:16:39 UTC] PHP Stack trace:
+[18-Jul-2018 14:16:39 UTC] PHP   1. {main}() /home/u261568441/public_html/templates/login_on.php:0
+[18-Jul-2018 14:16:42 UTC] PHP Notice:  Undefined variable: userfos in /home/u261568441/public_html/templates/deconnexion.php on line 12
+[18-Jul-2018 14:16:42 UTC] PHP Stack trace:
+[18-Jul-2018 14:16:42 UTC] PHP   1. {main}() /home/u261568441/public_html/templates/deconnexion.php:0
+[18-Jul-2018 14:16:46 UTC] PHP Notice:  Undefined variable: userfos in /home/u261568441/public_html/templates/login_on.php on line 10
+[18-Jul-2018 14:16:46 UTC] PHP Stack trace:
+[18-Jul-2018 14:16:46 UTC] PHP   1. {main}() /home/u261568441/public_html/templates/login_on.php:0
+[19-Jul-2018 07:19:38 UTC] PHP Notice:  Undefined variable: userfos in /home/u261568441/public_html/templates/login_on.php on line 10
+[19-Jul-2018 07:19:38 UTC] PHP Stack trace:
+[19-Jul-2018 07:19:38 UTC] PHP   1. {main}() /home/u261568441/public_html/templates/login_on.php:0
+[20-Jul-2018 07:48:30 UTC] PHP Notice:  Undefined variable: userfos in /home/u261568441/public_html/templates/login_on.php on line 10
+[20-Jul-2018 07:48:30 UTC] PHP Stack trace:
+[20-Jul-2018 07:48:30 UTC] PHP   1. {main}() /home/u261568441/public_html/templates/login_on.php:0
+[20-Jul-2018 20:49:09 UTC] PHP Notice:  Undefined variable: userfos in /home/u261568441/public_html/templates/login_on.php on line 10
+[20-Jul-2018 20:49:09 UTC] PHP Stack trace:
+[20-Jul-2018 20:49:09 UTC] PHP   1. {main}() /home/u261568441/public_html/templates/login_on.php:0
+[21-Jul-2018 02:47:09 UTC] PHP Notice:  Undefined variable: userfos in /home/u261568441/public_html/templates/login_on.php on line 10
+[21-Jul-2018 02:47:09 UTC] PHP Stack trace:
+[21-Jul-2018 02:47:09 UTC] PHP   1. {main}() /home/u261568441/public_html/templates/login_on.php:0
+[21-Jul-2018 03:16:58 UTC] PHP Notice:  Undefined variable: userfos in /home/u261568441/public_html/templates/deconnexion.php on line 12
+[21-Jul-2018 03:16:58 UTC] PHP Stack trace:
+[21-Jul-2018 03:16:58 UTC] PHP   1. {main}() /home/u261568441/public_html/templates/deconnexion.php:0
+[21-Jul-2018 04:39:02 UTC] PHP Notice:  Undefined variable: userfos in /home/u261568441/public_html/templates/login_on.php on line 10
+[21-Jul-2018 04:39:02 UTC] PHP Stack trace:
+[21-Jul-2018 04:39:02 UTC] PHP   1. {main}() /home/u261568441/public_html/templates/login_on.php:0
+[22-Jul-2018 01:53:18 UTC] PHP Notice:  Undefined variable: userfos in /home/u261568441/public_html/templates/login_on.php on line 10
+[22-Jul-2018 01:53:18 UTC] PHP Stack trace:
+[22-Jul-2018 01:53:18 UTC] PHP   1. {main}() /home/u261568441/public_html/templates/login_on.php:0
+[22-Jul-2018 08:33:25 UTC] PHP Notice:  Undefined variable: userfos in /home/u261568441/public_html/templates/login_on.php on line 10
+[22-Jul-2018 08:33:25 UTC] PHP Stack trace:
+[22-Jul-2018 08:33:25 UTC] PHP   1. {main}() /home/u261568441/public_html/templates/login_on.php:0
+[22-Jul-2018 22:02:33 UTC] PHP Notice:  Undefined variable: userfos in /home/u261568441/public_html/templates/login_on.php on line 10
+[22-Jul-2018 22:02:33 UTC] PHP Stack trace:
+[22-Jul-2018 22:02:33 UTC] PHP   1. {main}() /home/u261568441/public_html/templates/login_on.php:0
+[23-Jul-2018 06:59:34 UTC] PHP Notice:  Undefined variable: userfos in /home/u261568441/public_html/templates/login_on.php on line 10
+[23-Jul-2018 06:59:34 UTC] PHP Stack trace:
+[23-Jul-2018 06:59:34 UTC] PHP   1. {main}() /home/u261568441/public_html/templates/login_on.php:0
+[23-Jul-2018 16:05:06 UTC] PHP Notice:  Undefined variable: userfos in /home/u261568441/public_html/templates/deconnexion.php on line 12
+[23-Jul-2018 16:05:06 UTC] PHP Stack trace:
+[23-Jul-2018 16:05:06 UTC] PHP   1. {main}() /home/u261568441/public_html/templates/deconnexion.php:0
+[23-Jul-2018 16:06:05 UTC] PHP Notice:  Undefined variable: userfos in /home/u261568441/public_html/templates/login_on.php on line 10
+[23-Jul-2018 16:06:05 UTC] PHP Stack trace:
+[23-Jul-2018 16:06:05 UTC] PHP   1. {main}() /home/u261568441/public_html/templates/login_on.php:0
+[23-Jul-2018 16:27:58 UTC] PHP Notice:  Undefined variable: userfos in /home/u261568441/public_html/templates/deconnexion.php on line 12
+[23-Jul-2018 16:27:58 UTC] PHP Stack trace:
+[23-Jul-2018 16:27:58 UTC] PHP   1. {main}() /home/u261568441/public_html/templates/deconnexion.php:0
+[23-Jul-2018 16:29:02 UTC] PHP Notice:  Undefined variable: userfos in /home/u261568441/public_html/templates/login_on.php on line 10
+[23-Jul-2018 16:29:02 UTC] PHP Stack trace:
+[23-Jul-2018 16:29:02 UTC] PHP   1. {main}() /home/u261568441/public_html/templates/login_on.php:0
+[25-Jul-2018 09:37:25 UTC] PHP Notice:  Undefined variable: userfos in /home/u261568441/public_html/templates/login_on.php on line 10
+[25-Jul-2018 09:37:25 UTC] PHP Stack trace:
+[25-Jul-2018 09:37:25 UTC] PHP   1. {main}() /home/u261568441/public_html/templates/login_on.php:0
+[26-Jul-2018 08:33:20 UTC] PHP Notice:  Undefined variable: userfos in /home/u261568441/public_html/templates/login_on.php on line 10
+[26-Jul-2018 08:33:20 UTC] PHP Stack trace:
+[26-Jul-2018 08:33:20 UTC] PHP   1. {main}() /home/u261568441/public_html/templates/login_on.php:0
+[26-Jul-2018 14:31:01 UTC] PHP Notice:  Undefined variable: userfos in /home/u261568441/public_html/templates/login_on.php on line 10
+[26-Jul-2018 14:31:01 UTC] PHP Stack trace:
+[26-Jul-2018 14:31:01 UTC] PHP   1. {main}() /home/u261568441/public_html/templates/login_on.php:0
+[26-Jul-2018 20:40:42 UTC] PHP Notice:  Undefined variable: userfos in /home/u261568441/public_html/templates/login_on.php on line 10
+[26-Jul-2018 20:40:42 UTC] PHP Stack trace:
+[26-Jul-2018 20:40:42 UTC] PHP   1. {main}() /home/u261568441/public_html/templates/login_on.php:0
+[26-Jul-2018 20:40:46 UTC] PHP Notice:  Undefined variable: userfos in /home/u261568441/public_html/templates/login_on.php on line 10
+[26-Jul-2018 20:40:46 UTC] PHP Stack trace:
+[26-Jul-2018 20:40:46 UTC] PHP   1. {main}() /home/u261568441/public_html/templates/login_on.php:0
+[27-Jul-2018 08:30:11 UTC] PHP Notice:  Undefined variable: userfos in /home/u261568441/public_html/templates/deconnexion.php on line 12
+[27-Jul-2018 08:30:11 UTC] PHP Stack trace:
+[27-Jul-2018 08:30:11 UTC] PHP   1. {main}() /home/u261568441/public_html/templates/deconnexion.php:0
+[27-Jul-2018 08:30:17 UTC] PHP Notice:  Undefined variable: userfos in /home/u261568441/public_html/templates/login_on.php on line 10
+[27-Jul-2018 08:30:17 UTC] PHP Stack trace:
+[27-Jul-2018 08:30:17 UTC] PHP   1. {main}() /home/u261568441/public_html/templates/login_on.php:0
+[28-Jul-2018 10:22:47 UTC] PHP Notice:  Undefined variable: userfos in /home/u261568441/public_html/templates/login_on.php on line 10
+[28-Jul-2018 10:22:47 UTC] PHP Stack trace:
+[28-Jul-2018 10:22:47 UTC] PHP   1. {main}() /home/u261568441/public_html/templates/login_on.php:0
+[28-Jul-2018 10:22:49 UTC] PHP Notice:  Undefined variable: userfos in /home/u261568441/public_html/templates/deconnexion.php on line 12
+[28-Jul-2018 10:22:49 UTC] PHP Stack trace:
+[28-Jul-2018 10:22:49 UTC] PHP   1. {main}() /home/u261568441/public_html/templates/deconnexion.php:0
+[28-Jul-2018 10:22:59 UTC] PHP Notice:  Undefined variable: userfos in /home/u261568441/public_html/templates/login_on.php on line 10
+[28-Jul-2018 10:22:59 UTC] PHP Stack trace:
+[28-Jul-2018 10:22:59 UTC] PHP   1. {main}() /home/u261568441/public_html/templates/login_on.php:0
+[30-Jul-2018 08:13:25 UTC] PHP Notice:  Undefined variable: userfos in /home/u261568441/public_html/templates/login_on.php on line 10
+[30-Jul-2018 08:13:25 UTC] PHP Stack trace:
+[30-Jul-2018 08:13:25 UTC] PHP   1. {main}() /home/u261568441/public_html/templates/login_on.php:0
+[30-Jul-2018 10:58:10 UTC] PHP Notice:  Undefined variable: userfos in /home/u261568441/public_html/templates/deconnexion.php on line 12
+[30-Jul-2018 10:58:10 UTC] PHP Stack trace:
+[30-Jul-2018 10:58:10 UTC] PHP   1. {main}() /home/u261568441/public_html/templates/deconnexion.php:0
+[30-Jul-2018 11:00:04 UTC] PHP Notice:  Undefined variable: userfos in /home/u261568441/public_html/templates/login_on.php on line 10
+[30-Jul-2018 11:00:04 UTC] PHP Stack trace:
+[30-Jul-2018 11:00:04 UTC] PHP   1. {main}() /home/u261568441/public_html/templates/login_on.php:0
+[30-Jul-2018 13:59:51 UTC] PHP Notice:  Undefined variable: userfos in /home/u261568441/public_html/templates/login_on.php on line 10
+[30-Jul-2018 13:59:51 UTC] PHP Stack trace:
+[30-Jul-2018 13:59:51 UTC] PHP   1. {main}() /home/u261568441/public_html/templates/login_on.php:0
+[30-Jul-2018 13:59:52 UTC] PHP Notice:  Undefined variable: userfos in /home/u261568441/public_html/templates/login_on.php on line 10
+[30-Jul-2018 13:59:52 UTC] PHP Stack trace:
+[30-Jul-2018 13:59:52 UTC] PHP   1. {main}() /home/u261568441/public_html/templates/login_on.php:0
+[31-Jul-2018 03:23:30 UTC] PHP Notice:  Undefined variable: userfos in /home/u261568441/public_html/templates/login_on.php on line 10
+[31-Jul-2018 03:23:30 UTC] PHP Stack trace:
+[31-Jul-2018 03:23:30 UTC] PHP   1. {main}() /home/u261568441/public_html/templates/login_on.php:0
+[31-Jul-2018 03:23:59 UTC] PHP Notice:  Undefined variable: remise in /home/u261568441/public_html/templates/achat.php on line 974
+[31-Jul-2018 03:23:59 UTC] PHP Stack trace:
+[31-Jul-2018 03:23:59 UTC] PHP   1. {main}() /home/u261568441/public_html/templates/achat.php:0
+[31-Jul-2018 03:23:59 UTC] PHP Notice:  Undefined variable: unite_remise in /home/u261568441/public_html/templates/achat.php on line 981
+[31-Jul-2018 03:23:59 UTC] PHP Stack trace:
+[31-Jul-2018 03:23:59 UTC] PHP   1. {main}() /home/u261568441/public_html/templates/achat.php:0
+[31-Jul-2018 03:39:25 UTC] PHP Notice:  Undefined variable: userfos in /home/u261568441/public_html/templates/deconnexion.php on line 12
+[31-Jul-2018 03:39:25 UTC] PHP Stack trace:
+[31-Jul-2018 03:39:25 UTC] PHP   1. {main}() /home/u261568441/public_html/templates/deconnexion.php:0
+[31-Jul-2018 06:10:28 UTC] PHP Notice:  Undefined variable: userfos in /home/u261568441/public_html/templates/login_on.php on line 10
+[31-Jul-2018 06:10:28 UTC] PHP Stack trace:
+[31-Jul-2018 06:10:28 UTC] PHP   1. {main}() /home/u261568441/public_html/templates/login_on.php:0
+[31-Jul-2018 06:10:28 UTC] PHP Notice:  Undefined variable: userfos in /home/u261568441/public_html/templates/deconnexion.php on line 12
+[31-Jul-2018 06:10:28 UTC] PHP Stack trace:
+[31-Jul-2018 06:10:28 UTC] PHP   1. {main}() /home/u261568441/public_html/templates/deconnexion.php:0
+[31-Jul-2018 06:10:38 UTC] PHP Notice:  Undefined variable: userfos in /home/u261568441/public_html/templates/login_on.php on line 10
+[31-Jul-2018 06:10:38 UTC] PHP Stack trace:
+[31-Jul-2018 06:10:38 UTC] PHP   1. {main}() /home/u261568441/public_html/templates/login_on.php:0
+[31-Jul-2018 06:10:38 UTC] PHP Notice:  Undefined variable: userfos in /home/u261568441/public_html/templates/login_on.php on line 10
+[31-Jul-2018 06:10:38 UTC] PHP Stack trace:
+[31-Jul-2018 06:10:38 UTC] PHP   1. {main}() /home/u261568441/public_html/templates/login_on.php:0
+[31-Jul-2018 06:11:18 UTC] PHP Notice:  Undefined variable: remise in /home/u261568441/public_html/templates/achat.php on line 974
+[31-Jul-2018 06:11:18 UTC] PHP Stack trace:
+[31-Jul-2018 06:11:18 UTC] PHP   1. {main}() /home/u261568441/public_html/templates/achat.php:0
+[31-Jul-2018 06:11:18 UTC] PHP Notice:  Undefined variable: unite_remise in /home/u261568441/public_html/templates/achat.php on line 981
+[31-Jul-2018 06:11:18 UTC] PHP Stack trace:
+[31-Jul-2018 06:11:18 UTC] PHP   1. {main}() /home/u261568441/public_html/templates/achat.php:0
+[31-Jul-2018 06:19:01 UTC] PHP Notice:  Undefined variable: remise in /home/u261568441/public_html/templates/achat.php on line 974
+[31-Jul-2018 06:19:01 UTC] PHP Stack trace:
+[31-Jul-2018 06:19:01 UTC] PHP   1. {main}() /home/u261568441/public_html/templates/achat.php:0
+[31-Jul-2018 06:19:01 UTC] PHP Notice:  Undefined variable: unite_remise in /home/u261568441/public_html/templates/achat.php on line 981
+[31-Jul-2018 06:19:01 UTC] PHP Stack trace:
+[31-Jul-2018 06:19:01 UTC] PHP   1. {main}() /home/u261568441/public_html/templates/achat.php:0
+[01-Aug-2018 10:51:00 UTC] PHP Notice:  Undefined variable: remise in /home/u261568441/public_html/templates/achat.php on line 974
+[01-Aug-2018 10:51:00 UTC] PHP Stack trace:
+[01-Aug-2018 10:51:00 UTC] PHP   1. {main}() /home/u261568441/public_html/templates/achat.php:0
+[01-Aug-2018 10:51:00 UTC] PHP Notice:  Undefined variable: unite_remise in /home/u261568441/public_html/templates/achat.php on line 981
+[01-Aug-2018 10:51:00 UTC] PHP Stack trace:
+[01-Aug-2018 10:51:00 UTC] PHP   1. {main}() /home/u261568441/public_html/templates/achat.php:0
+[02-Aug-2018 07:43:58 UTC] PHP Notice:  Undefined variable: userfos in /home/u261568441/public_html/templates/login_on.php on line 10
+[02-Aug-2018 07:43:58 UTC] PHP Stack trace:
+[02-Aug-2018 07:43:58 UTC] PHP   1. {main}() /home/u261568441/public_html/templates/login_on.php:0
+[02-Aug-2018 07:43:59 UTC] PHP Notice:  Undefined variable: userfos in /home/u261568441/public_html/templates/deconnexion.php on line 12
+[02-Aug-2018 07:43:59 UTC] PHP Stack trace:
+[02-Aug-2018 07:43:59 UTC] PHP   1. {main}() /home/u261568441/public_html/templates/deconnexion.php:0
+[02-Aug-2018 07:44:03 UTC] PHP Notice:  Undefined variable: userfos in /home/u261568441/public_html/templates/login_on.php on line 10
+[02-Aug-2018 07:44:03 UTC] PHP Stack trace:
+[02-Aug-2018 07:44:03 UTC] PHP   1. {main}() /home/u261568441/public_html/templates/login_on.php:0
+[02-Aug-2018 07:44:25 UTC] PHP Notice:  Undefined variable: remise in /home/u261568441/public_html/templates/achat.php on line 974
+[02-Aug-2018 07:44:25 UTC] PHP Stack trace:
+[02-Aug-2018 07:44:25 UTC] PHP   1. {main}() /home/u261568441/public_html/templates/achat.php:0
+[02-Aug-2018 07:44:25 UTC] PHP Notice:  Undefined variable: unite_remise in /home/u261568441/public_html/templates/achat.php on line 981
+[02-Aug-2018 07:44:25 UTC] PHP Stack trace:
+[02-Aug-2018 07:44:25 UTC] PHP   1. {main}() /home/u261568441/public_html/templates/achat.php:0
+[02-Aug-2018 09:25:37 UTC] PHP Notice:  Undefined variable: userfos in /home/u261568441/public_html/templates/login_on.php on line 10
+[02-Aug-2018 09:25:37 UTC] PHP Stack trace:
+[02-Aug-2018 09:25:37 UTC] PHP   1. {main}() /home/u261568441/public_html/templates/login_on.php:0
+[02-Aug-2018 09:26:13 UTC] PHP Notice:  Undefined variable: userfos in /home/u261568441/public_html/templates/deconnexion.php on line 12
+[02-Aug-2018 09:26:13 UTC] PHP Stack trace:
+[02-Aug-2018 09:26:13 UTC] PHP   1. {main}() /home/u261568441/public_html/templates/deconnexion.php:0
+[02-Aug-2018 09:26:53 UTC] PHP Notice:  Undefined variable: userfos in /home/u261568441/public_html/templates/login_on.php on line 10
+[02-Aug-2018 09:26:53 UTC] PHP Stack trace:
+[02-Aug-2018 09:26:53 UTC] PHP   1. {main}() /home/u261568441/public_html/templates/login_on.php:0
+[02-Aug-2018 09:27:05 UTC] PHP Notice:  Undefined variable: refCaise in /home/u261568441/public_html/templates/viewComptfin.php on line 203
+[02-Aug-2018 09:27:05 UTC] PHP Stack trace:
+[02-Aug-2018 09:27:05 UTC] PHP   1. {main}() /home/u261568441/public_html/templates/viewComptfin.php:0
+[02-Aug-2018 09:27:05 UTC] PHP Notice:  Undefined variable: idClient in /home/u261568441/public_html/templates/viewComptfin.php on line 203
+[02-Aug-2018 09:27:05 UTC] PHP Stack trace:
+[02-Aug-2018 09:27:05 UTC] PHP   1. {main}() /home/u261568441/public_html/templates/viewComptfin.php:0
+[02-Aug-2018 09:29:52 UTC] PHP Notice:  Undefined variable: userfos in /home/u261568441/public_html/templates/deconnexion.php on line 12
+[02-Aug-2018 09:29:52 UTC] PHP Stack trace:
+[02-Aug-2018 09:29:52 UTC] PHP   1. {main}() /home/u261568441/public_html/templates/deconnexion.php:0
+[02-Aug-2018 09:30:00 UTC] PHP Notice:  Undefined variable: userfos in /home/u261568441/public_html/templates/login_on.php on line 10
+[02-Aug-2018 09:30:00 UTC] PHP Stack trace:
+[02-Aug-2018 09:30:00 UTC] PHP   1. {main}() /home/u261568441/public_html/templates/login_on.php:0
+[02-Aug-2018 09:42:40 UTC] PHP Notice:  Undefined variable: userfos in /home/u261568441/public_html/templates/deconnexion.php on line 12
+[02-Aug-2018 09:42:40 UTC] PHP Stack trace:
+[02-Aug-2018 09:42:40 UTC] PHP   1. {main}() /home/u261568441/public_html/templates/deconnexion.php:0
+[02-Aug-2018 10:01:30 UTC] PHP Notice:  Undefined variable: userfos in /home/u261568441/public_html/templates/deconnexion.php on line 12
+[02-Aug-2018 10:01:30 UTC] PHP Stack trace:
+[02-Aug-2018 10:01:30 UTC] PHP   1. {main}() /home/u261568441/public_html/templates/deconnexion.php:0
+[02-Aug-2018 10:01:34 UTC] PHP Notice:  Undefined variable: userfos in /home/u261568441/public_html/templates/login_on.php on line 10
+[02-Aug-2018 10:01:34 UTC] PHP Stack trace:
+[02-Aug-2018 10:01:34 UTC] PHP   1. {main}() /home/u261568441/public_html/templates/login_on.php:0
+[02-Aug-2018 10:42:29 UTC] PHP Notice:  Undefined variable: remise in /home/u261568441/public_html/templates/achat.php on line 974
+[02-Aug-2018 10:42:29 UTC] PHP Stack trace:
+[02-Aug-2018 10:42:29 UTC] PHP   1. {main}() /home/u261568441/public_html/templates/achat.php:0
+[02-Aug-2018 10:42:29 UTC] PHP Notice:  Undefined variable: unite_remise in /home/u261568441/public_html/templates/achat.php on line 981
+[02-Aug-2018 10:42:29 UTC] PHP Stack trace:
+[02-Aug-2018 10:42:29 UTC] PHP   1. {main}() /home/u261568441/public_html/templates/achat.php:0
+[02-Aug-2018 14:08:53 UTC] PHP Notice:  Undefined variable: remise in /home/u261568441/public_html/templates/achat.php on line 974
+[02-Aug-2018 14:08:53 UTC] PHP Stack trace:
+[02-Aug-2018 14:08:53 UTC] PHP   1. {main}() /home/u261568441/public_html/templates/achat.php:0
+[02-Aug-2018 14:08:53 UTC] PHP Notice:  Undefined variable: unite_remise in /home/u261568441/public_html/templates/achat.php on line 981
+[02-Aug-2018 14:08:53 UTC] PHP Stack trace:
+[02-Aug-2018 14:08:53 UTC] PHP   1. {main}() /home/u261568441/public_html/templates/achat.php:0
+[02-Aug-2018 14:09:29 UTC] PHP Notice:  Undefined variable: userfos in /home/u261568441/public_html/templates/login_on.php on line 10
+[02-Aug-2018 14:09:29 UTC] PHP Stack trace:
+[02-Aug-2018 14:09:29 UTC] PHP   1. {main}() /home/u261568441/public_html/templates/login_on.php:0
+[02-Aug-2018 14:09:30 UTC] PHP Notice:  Undefined variable: userfos in /home/u261568441/public_html/templates/login_on.php on line 10
+[02-Aug-2018 14:09:30 UTC] PHP Stack trace:
+[02-Aug-2018 14:09:30 UTC] PHP   1. {main}() /home/u261568441/public_html/templates/login_on.php:0
+[02-Aug-2018 14:09:48 UTC] PHP Notice:  Undefined variable: remise in /home/u261568441/public_html/templates/achat.php on line 974
+[02-Aug-2018 14:09:48 UTC] PHP Stack trace:
+[02-Aug-2018 14:09:48 UTC] PHP   1. {main}() /home/u261568441/public_html/templates/achat.php:0
+[02-Aug-2018 14:09:48 UTC] PHP Notice:  Undefined variable: unite_remise in /home/u261568441/public_html/templates/achat.php on line 981
+[02-Aug-2018 14:09:48 UTC] PHP Stack trace:
+[02-Aug-2018 14:09:48 UTC] PHP   1. {main}() /home/u261568441/public_html/templates/achat.php:0
+[02-Aug-2018 15:25:06 UTC] PHP Notice:  Undefined variable: userfos in /home/u261568441/public_html/templates/login_on.php on line 10
+[02-Aug-2018 15:25:06 UTC] PHP Stack trace:
+[02-Aug-2018 15:25:06 UTC] PHP   1. {main}() /home/u261568441/public_html/templates/login_on.php:0
+[02-Aug-2018 15:26:59 UTC] PHP Notice:  Undefined variable: userfos in /home/u261568441/public_html/templates/deconnexion.php on line 12
+[02-Aug-2018 15:26:59 UTC] PHP Stack trace:
+[02-Aug-2018 15:26:59 UTC] PHP   1. {main}() /home/u261568441/public_html/templates/deconnexion.php:0
+[02-Aug-2018 15:29:35 UTC] PHP Notice:  Undefined variable: userfos in /home/u261568441/public_html/templates/login_on.php on line 10
+[02-Aug-2018 15:29:35 UTC] PHP Stack trace:
+[02-Aug-2018 15:29:35 UTC] PHP   1. {main}() /home/u261568441/public_html/templates/login_on.php:0
+[02-Aug-2018 15:40:37 UTC] PHP Notice:  Undefined variable: userfos in /home/u261568441/public_html/templates/deconnexion.php on line 12
+[02-Aug-2018 15:40:37 UTC] PHP Stack trace:
+[02-Aug-2018 15:40:37 UTC] PHP   1. {main}() /home/u261568441/public_html/templates/deconnexion.php:0
+[02-Aug-2018 16:22:50 UTC] PHP Notice:  Undefined variable: userfos in /home/u261568441/public_html/templates/login_on.php on line 10
+[02-Aug-2018 16:22:50 UTC] PHP Stack trace:
+[02-Aug-2018 16:22:50 UTC] PHP   1. {main}() /home/u261568441/public_html/templates/login_on.php:0
+[02-Aug-2018 17:07:32 UTC] PHP Notice:  Undefined variable: userfos in /home/u261568441/public_html/templates/login_on.php on line 10
+[02-Aug-2018 17:07:32 UTC] PHP Stack trace:
+[02-Aug-2018 17:07:32 UTC] PHP   1. {main}() /home/u261568441/public_html/templates/login_on.php:0
+[02-Aug-2018 20:09:02 UTC] PHP Notice:  Undefined variable: userfos in /home/u261568441/public_html/templates/login_on.php on line 10
+[02-Aug-2018 20:09:02 UTC] PHP Stack trace:
+[02-Aug-2018 20:09:02 UTC] PHP   1. {main}() /home/u261568441/public_html/templates/login_on.php:0
+[02-Aug-2018 20:09:08 UTC] PHP Notice:  Undefined variable: userfos in /home/u261568441/public_html/templates/login_on.php on line 10
+[02-Aug-2018 20:09:08 UTC] PHP Stack trace:
+[02-Aug-2018 20:09:08 UTC] PHP   1. {main}() /home/u261568441/public_html/templates/login_on.php:0
+[03-Aug-2018 13:41:16 UTC] PHP Notice:  Undefined variable: userfos in /home/u261568441/public_html/templates/login_on.php on line 10
+[03-Aug-2018 13:41:16 UTC] PHP Stack trace:
+[03-Aug-2018 13:41:16 UTC] PHP   1. {main}() /home/u261568441/public_html/templates/login_on.php:0
+[03-Aug-2018 21:23:17 UTC] PHP Notice:  Undefined variable: userfos in /home/u261568441/public_html/templates/login_on.php on line 10
+[03-Aug-2018 21:23:17 UTC] PHP Stack trace:
+[03-Aug-2018 21:23:17 UTC] PHP   1. {main}() /home/u261568441/public_html/templates/login_on.php:0
+[03-Aug-2018 21:23:17 UTC] PHP Notice:  Undefined variable: userfos in /home/u261568441/public_html/templates/deconnexion.php on line 12
+[03-Aug-2018 21:23:17 UTC] PHP Stack trace:
+[03-Aug-2018 21:23:17 UTC] PHP   1. {main}() /home/u261568441/public_html/templates/deconnexion.php:0
+[03-Aug-2018 21:23:25 UTC] PHP Notice:  Undefined variable: userfos in /home/u261568441/public_html/templates/login_on.php on line 10
+[03-Aug-2018 21:23:25 UTC] PHP Stack trace:
+[03-Aug-2018 21:23:25 UTC] PHP   1. {main}() /home/u261568441/public_html/templates/login_on.php:0
+[03-Aug-2018 21:24:00 UTC] PHP Notice:  Undefined variable: userfos in /home/u261568441/public_html/templates/deconnexion.php on line 12
+[03-Aug-2018 21:24:00 UTC] PHP Stack trace:
+[03-Aug-2018 21:24:00 UTC] PHP   1. {main}() /home/u261568441/public_html/templates/deconnexion.php:0
+[04-Aug-2018 09:46:42 UTC] PHP Notice:  Undefined variable: userfos in /home/u261568441/public_html/templates/login_on.php on line 10
+[04-Aug-2018 09:46:42 UTC] PHP Stack trace:
+[04-Aug-2018 09:46:42 UTC] PHP   1. {main}() /home/u261568441/public_html/templates/login_on.php:0
+[04-Aug-2018 11:05:57 UTC] PHP Notice:  Undefined variable: userfos in /home/u261568441/public_html/templates/login_on.php on line 10
+[04-Aug-2018 11:05:57 UTC] PHP Stack trace:
+[04-Aug-2018 11:05:57 UTC] PHP   1. {main}() /home/u261568441/public_html/templates/login_on.php:0
+[04-Aug-2018 21:04:10 UTC] PHP Notice:  Undefined variable: userfos in /home/u261568441/public_html/templates/login_on.php on line 10
+[04-Aug-2018 21:04:10 UTC] PHP Stack trace:
+[04-Aug-2018 21:04:10 UTC] PHP   1. {main}() /home/u261568441/public_html/templates/login_on.php:0
+[04-Aug-2018 21:18:39 UTC] PHP Notice:  Undefined variable: userfos in /home/u261568441/public_html/templates/deconnexion.php on line 12
+[04-Aug-2018 21:18:39 UTC] PHP Stack trace:
+[04-Aug-2018 21:18:39 UTC] PHP   1. {main}() /home/u261568441/public_html/templates/deconnexion.php:0
